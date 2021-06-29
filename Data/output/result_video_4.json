@@ -1,0 +1,1505 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/test_video_frames/frame_0.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.571050, "center_y":0.540307, "width":0.022715, "height":0.137438}, "confidence":0.966661}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/test_video_frames/frame_100.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.340590, "center_y":0.706715, "width":0.060363, "height":0.311626}, "confidence":0.995400}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.517098, "center_y":0.712402, "width":0.034141, "height":0.283466}, "confidence":0.982077}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.429436, "center_y":0.411272, "width":0.034338, "height":0.066158}, "confidence":0.846277}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/test_video_frames/frame_101.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.336337, "center_y":0.710879, "width":0.059736, "height":0.306594}, "confidence":0.990995}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.514629, "center_y":0.713388, "width":0.033870, "height":0.291102}, "confidence":0.975229}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.427239, "center_y":0.413425, "width":0.037294, "height":0.065620}, "confidence":0.921157}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/test_video_frames/frame_102.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.332417, "center_y":0.715269, "width":0.054997, "height":0.329258}, "confidence":0.986720}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.513675, "center_y":0.716369, "width":0.030323, "height":0.311108}, "confidence":0.915687}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.424524, "center_y":0.414785, "width":0.040054, "height":0.068206}, "confidence":0.798578}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/test_video_frames/frame_103.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.330100, "center_y":0.715463, "width":0.055131, "height":0.324465}, "confidence":0.988566}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.510320, "center_y":0.717454, "width":0.033471, "height":0.286728}, "confidence":0.954158}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.423634, "center_y":0.415129, "width":0.041372, "height":0.072108}, "confidence":0.916807}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/test_video_frames/frame_104.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.328955, "center_y":0.716626, "width":0.055016, "height":0.331404}, "confidence":0.986905}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.508826, "center_y":0.717984, "width":0.036015, "height":0.288346}, "confidence":0.964925}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.422974, "center_y":0.415751, "width":0.042060, "height":0.071969}, "confidence":0.950315}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/test_video_frames/frame_105.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.328145, "center_y":0.717889, "width":0.053919, "height":0.320244}, "confidence":0.985085}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.508801, "center_y":0.721572, "width":0.036549, "height":0.283348}, "confidence":0.917491}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.422232, "center_y":0.415722, "width":0.043664, "height":0.071351}, "confidence":0.961023}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/test_video_frames/frame_106.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.327463, "center_y":0.719295, "width":0.053539, "height":0.329881}, "confidence":0.979715}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.509863, "center_y":0.732692, "width":0.034821, "height":0.291078}, "confidence":0.938054}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.423368, "center_y":0.415309, "width":0.043163, "height":0.073270}, "confidence":0.954556}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/test_video_frames/frame_107.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.328076, "center_y":0.719944, "width":0.055953, "height":0.325962}, "confidence":0.979920}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.510824, "center_y":0.733957, "width":0.032955, "height":0.280886}, "confidence":0.948726}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.424437, "center_y":0.414411, "width":0.042200, "height":0.075448}, "confidence":0.895707}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/test_video_frames/frame_108.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.329983, "center_y":0.719002, "width":0.058881, "height":0.320457}, "confidence":0.990656}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.510817, "center_y":0.434008, "width":0.039441, "height":0.039111}, "confidence":0.349054}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.513525, "center_y":0.734320, "width":0.033671, "height":0.291040}, "confidence":0.927983}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.427226, "center_y":0.415664, "width":0.042484, "height":0.069491}, "confidence":0.961923}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/test_video_frames/frame_109.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.333263, "center_y":0.720719, "width":0.056520, "height":0.323212}, "confidence":0.983652}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.516551, "center_y":0.429981, "width":0.038385, "height":0.040449}, "confidence":0.523074}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.515900, "center_y":0.734439, "width":0.034245, "height":0.298982}, "confidence":0.972679}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.430208, "center_y":0.415229, "width":0.042231, "height":0.067850}, "confidence":0.974131}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/test_video_frames/frame_10.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561033, "center_y":0.557437, "width":0.022339, "height":0.163556}, "confidence":0.977356}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/test_video_frames/frame_110.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.335306, "center_y":0.722336, "width":0.057076, "height":0.354458}, "confidence":0.919548}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.520043, "center_y":0.428741, "width":0.035735, "height":0.035601}, "confidence":0.746799}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.520529, "center_y":0.735255, "width":0.037577, "height":0.291683}, "confidence":0.971949}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.435538, "center_y":0.413618, "width":0.045602, "height":0.072130}, "confidence":0.962295}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/test_video_frames/frame_111.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.340130, "center_y":0.731986, "width":0.049599, "height":0.347160}, "confidence":0.961861}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.523546, "center_y":0.426206, "width":0.048251, "height":0.038387}, "confidence":0.856119}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.523167, "center_y":0.736524, "width":0.035868, "height":0.273910}, "confidence":0.946469}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.438386, "center_y":0.412298, "width":0.042636, "height":0.074374}, "confidence":0.859848}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/test_video_frames/frame_112.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.341427, "center_y":0.733303, "width":0.052835, "height":0.330258}, "confidence":0.980458}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.528601, "center_y":0.423743, "width":0.043581, "height":0.044816}, "confidence":0.946443}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.526482, "center_y":0.739868, "width":0.034180, "height":0.294478}, "confidence":0.957652}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.441379, "center_y":0.411034, "width":0.044445, "height":0.071021}, "confidence":0.921374}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/test_video_frames/frame_113.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.343700, "center_y":0.736147, "width":0.058853, "height":0.338892}, "confidence":0.985575}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.530741, "center_y":0.423586, "width":0.044916, "height":0.043974}, "confidence":0.965608}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.528898, "center_y":0.740257, "width":0.036707, "height":0.308949}, "confidence":0.974161}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.445871, "center_y":0.407224, "width":0.047491, "height":0.070065}, "confidence":0.924233}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/test_video_frames/frame_114.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.346408, "center_y":0.738349, "width":0.057406, "height":0.360557}, "confidence":0.984194}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.533054, "center_y":0.423395, "width":0.044273, "height":0.041060}, "confidence":0.959288}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.531371, "center_y":0.741830, "width":0.037572, "height":0.290653}, "confidence":0.966314}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.449207, "center_y":0.407573, "width":0.047265, "height":0.067648}, "confidence":0.790738}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/test_video_frames/frame_115.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.347255, "center_y":0.741142, "width":0.056250, "height":0.361313}, "confidence":0.977632}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.536445, "center_y":0.421357, "width":0.045734, "height":0.044357}, "confidence":0.940918}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535169, "center_y":0.748844, "width":0.033499, "height":0.332525}, "confidence":0.943967}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.451416, "center_y":0.405208, "width":0.045608, "height":0.065159}, "confidence":0.948893}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.567346, "center_y":0.330115, "width":0.033379, "height":0.063323}, "confidence":0.980974}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/test_video_frames/frame_116.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.347516, "center_y":0.748464, "width":0.060505, "height":0.342515}, "confidence":0.978104}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.536772, "center_y":0.420759, "width":0.045235, "height":0.042490}, "confidence":0.918402}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.536778, "center_y":0.754620, "width":0.032771, "height":0.330047}, "confidence":0.947604}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.451568, "center_y":0.404650, "width":0.046736, "height":0.063657}, "confidence":0.962339}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.566697, "center_y":0.330267, "width":0.035836, "height":0.062734}, "confidence":0.983577}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/test_video_frames/frame_117.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.347055, "center_y":0.751456, "width":0.060674, "height":0.343826}, "confidence":0.983712}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.537031, "center_y":0.420246, "width":0.045247, "height":0.044270}, "confidence":0.871483}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535190, "center_y":0.757842, "width":0.036720, "height":0.293715}, "confidence":0.954249}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.451635, "center_y":0.404277, "width":0.047034, "height":0.063437}, "confidence":0.961553}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.566596, "center_y":0.330249, "width":0.037055, "height":0.065295}, "confidence":0.986865}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/test_video_frames/frame_118.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.345672, "center_y":0.754825, "width":0.061862, "height":0.335324}, "confidence":0.988919}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.536819, "center_y":0.421581, "width":0.046295, "height":0.045014}, "confidence":0.921618}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535173, "center_y":0.760593, "width":0.036862, "height":0.295864}, "confidence":0.961753}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.451013, "center_y":0.405639, "width":0.048095, "height":0.066952}, "confidence":0.924946}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.565979, "center_y":0.331297, "width":0.038389, "height":0.065335}, "confidence":0.987932}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/test_video_frames/frame_119.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.344735, "center_y":0.758648, "width":0.060087, "height":0.339677}, "confidence":0.990479}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.535863, "center_y":0.426627, "width":0.049622, "height":0.050510}, "confidence":0.942360}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.533681, "center_y":0.762832, "width":0.035536, "height":0.305932}, "confidence":0.970273}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.448526, "center_y":0.411596, "width":0.046105, "height":0.066651}, "confidence":0.942006}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.564827, "center_y":0.334546, "width":0.040639, "height":0.067842}, "confidence":0.983412}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/test_video_frames/frame_11.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561480, "center_y":0.557304, "width":0.021108, "height":0.164646}, "confidence":0.966769}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/test_video_frames/frame_120.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.341358, "center_y":0.763697, "width":0.058508, "height":0.340586}, "confidence":0.988024}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.533158, "center_y":0.433122, "width":0.047697, "height":0.043942}, "confidence":0.822695}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.532697, "center_y":0.766837, "width":0.036290, "height":0.324613}, "confidence":0.926206}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.446067, "center_y":0.415653, "width":0.045488, "height":0.065186}, "confidence":0.977501}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.563358, "center_y":0.338286, "width":0.039523, "height":0.083598}, "confidence":0.915452}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/test_video_frames/frame_121.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.341396, "center_y":0.766250, "width":0.058520, "height":0.356503}, "confidence":0.973326}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.530680, "center_y":0.439108, "width":0.047583, "height":0.043800}, "confidence":0.951554}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.531416, "center_y":0.779359, "width":0.035196, "height":0.329805}, "confidence":0.973407}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.444299, "center_y":0.422559, "width":0.044507, "height":0.063847}, "confidence":0.985306}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.563338, "center_y":0.344457, "width":0.038497, "height":0.080625}, "confidence":0.907210}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/test_video_frames/frame_122.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.341154, "center_y":0.778527, "width":0.052516, "height":0.347499}, "confidence":0.966668}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.532560, "center_y":0.444328, "width":0.049739, "height":0.047808}, "confidence":0.974692}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.531639, "center_y":0.784129, "width":0.035505, "height":0.310989}, "confidence":0.976498}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.442211, "center_y":0.428875, "width":0.049594, "height":0.069246}, "confidence":0.959246}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.563376, "center_y":0.349845, "width":0.038989, "height":0.070379}, "confidence":0.955747}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/test_video_frames/frame_123.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.339727, "center_y":0.782811, "width":0.059755, "height":0.351880}, "confidence":0.987894}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.533352, "center_y":0.449213, "width":0.054497, "height":0.053482}, "confidence":0.968537}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.531562, "center_y":0.785647, "width":0.034537, "height":0.328090}, "confidence":0.974367}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.441370, "center_y":0.435726, "width":0.048498, "height":0.066557}, "confidence":0.972496}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.563604, "center_y":0.353302, "width":0.038764, "height":0.070354}, "confidence":0.980885}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/test_video_frames/frame_124.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.340469, "center_y":0.782680, "width":0.060617, "height":0.354457}, "confidence":0.985237}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.533926, "center_y":0.451950, "width":0.052798, "height":0.050409}, "confidence":0.930122}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.532927, "center_y":0.785555, "width":0.034857, "height":0.321305}, "confidence":0.967358}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.442135, "center_y":0.437593, "width":0.046127, "height":0.066782}, "confidence":0.980062}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.564737, "center_y":0.355046, "width":0.038416, "height":0.069558}, "confidence":0.984873}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/test_video_frames/frame_125.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.342153, "center_y":0.781075, "width":0.055730, "height":0.356363}, "confidence":0.984894}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.536286, "center_y":0.457366, "width":0.050551, "height":0.043299}, "confidence":0.919173}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535339, "center_y":0.786980, "width":0.034882, "height":0.283089}, "confidence":0.935867}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.444264, "center_y":0.439692, "width":0.049726, "height":0.069852}, "confidence":0.983451}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.567494, "center_y":0.357992, "width":0.037268, "height":0.070966}, "confidence":0.981949}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/test_video_frames/frame_126.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.344250, "center_y":0.780717, "width":0.058018, "height":0.357244}, "confidence":0.985348}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.538858, "center_y":0.458867, "width":0.048779, "height":0.044179}, "confidence":0.891964}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539978, "center_y":0.790086, "width":0.033632, "height":0.360703}, "confidence":0.937603}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.447264, "center_y":0.442066, "width":0.049048, "height":0.070079}, "confidence":0.979098}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.571648, "center_y":0.358343, "width":0.034916, "height":0.072112}, "confidence":0.959506}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/test_video_frames/frame_127.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.346406, "center_y":0.781752, "width":0.060017, "height":0.358299}, "confidence":0.977776}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.541659, "center_y":0.460627, "width":0.046203, "height":0.043193}, "confidence":0.971155}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539602, "center_y":0.785190, "width":0.033820, "height":0.326349}, "confidence":0.968838}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.448940, "center_y":0.443237, "width":0.048508, "height":0.071683}, "confidence":0.950950}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.576368, "center_y":0.359903, "width":0.029890, "height":0.080279}, "confidence":0.478197}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/test_video_frames/frame_128.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.351888, "center_y":0.782994, "width":0.052541, "height":0.387945}, "confidence":0.961792}, 
+  {"class_id":3, "name":"Loterij", "relative_coordinates":{"center_x":0.546716, "center_y":0.464024, "width":0.049791, "height":0.043537}, "confidence":0.930811}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.542483, "center_y":0.787881, "width":0.033024, "height":0.309087}, "confidence":0.972169}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.452048, "center_y":0.445997, "width":0.048654, "height":0.071221}, "confidence":0.975057}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/test_video_frames/frame_129.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.353765, "center_y":0.782784, "width":0.054833, "height":0.349597}, "confidence":0.985506}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.547214, "center_y":0.786244, "width":0.036078, "height":0.284900}, "confidence":0.962627}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.455944, "center_y":0.446486, "width":0.049456, "height":0.069492}, "confidence":0.980122}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/test_video_frames/frame_12.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.459724, "center_y":0.569692, "width":0.040231, "height":0.197971}, "confidence":0.890301}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561322, "center_y":0.558345, "width":0.021361, "height":0.154083}, "confidence":0.966613}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/test_video_frames/frame_130.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.357169, "center_y":0.781390, "width":0.058296, "height":0.369128}, "confidence":0.984250}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551087, "center_y":0.785623, "width":0.033895, "height":0.329039}, "confidence":0.939316}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.459620, "center_y":0.448185, "width":0.049712, "height":0.072297}, "confidence":0.977922}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/test_video_frames/frame_131.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.360045, "center_y":0.784203, "width":0.061802, "height":0.381765}, "confidence":0.986078}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.552823, "center_y":0.787641, "width":0.034048, "height":0.306045}, "confidence":0.965487}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.463680, "center_y":0.449654, "width":0.049796, "height":0.077518}, "confidence":0.907174}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/test_video_frames/frame_132.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.363684, "center_y":0.784056, "width":0.061125, "height":0.364438}, "confidence":0.986458}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.555672, "center_y":0.784043, "width":0.033647, "height":0.323706}, "confidence":0.978819}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.466121, "center_y":0.451372, "width":0.051635, "height":0.075595}, "confidence":0.932455}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/test_video_frames/frame_133.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.367526, "center_y":0.782464, "width":0.056808, "height":0.361018}, "confidence":0.985914}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.559634, "center_y":0.785223, "width":0.036498, "height":0.298398}, "confidence":0.960888}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.469619, "center_y":0.452064, "width":0.051540, "height":0.074957}, "confidence":0.905863}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/test_video_frames/frame_134.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.369992, "center_y":0.782105, "width":0.059167, "height":0.390026}, "confidence":0.983110}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561186, "center_y":0.783330, "width":0.033840, "height":0.301821}, "confidence":0.926399}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.473157, "center_y":0.452395, "width":0.049388, "height":0.074268}, "confidence":0.848067}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/test_video_frames/frame_135.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.372570, "center_y":0.780927, "width":0.057334, "height":0.376958}, "confidence":0.952068}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563888, "center_y":0.783562, "width":0.033116, "height":0.317908}, "confidence":0.957182}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.476297, "center_y":0.451639, "width":0.044886, "height":0.073331}, "confidence":0.845696}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/test_video_frames/frame_136.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.378480, "center_y":0.780402, "width":0.052838, "height":0.368470}, "confidence":0.984822}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.564914, "center_y":0.782035, "width":0.034194, "height":0.315364}, "confidence":0.968085}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.478027, "center_y":0.450229, "width":0.048291, "height":0.072428}, "confidence":0.933326}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/test_video_frames/frame_137.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.379286, "center_y":0.778387, "width":0.053333, "height":0.366248}, "confidence":0.975282}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.565798, "center_y":0.780221, "width":0.036408, "height":0.324178}, "confidence":0.966975}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.480453, "center_y":0.447434, "width":0.041713, "height":0.063587}, "confidence":0.964895}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/test_video_frames/frame_138.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.380329, "center_y":0.777743, "width":0.052689, "height":0.385941}, "confidence":0.958762}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.567124, "center_y":0.778698, "width":0.036258, "height":0.343992}, "confidence":0.957901}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.480744, "center_y":0.444534, "width":0.042504, "height":0.060131}, "confidence":0.974723}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/test_video_frames/frame_139.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.379803, "center_y":0.764514, "width":0.058869, "height":0.377442}, "confidence":0.987747}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.567918, "center_y":0.777936, "width":0.034996, "height":0.364344}, "confidence":0.914206}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.481220, "center_y":0.442099, "width":0.042175, "height":0.058479}, "confidence":0.967489}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/test_video_frames/frame_13.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.457256, "center_y":0.567112, "width":0.042186, "height":0.195855}, "confidence":0.906599}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.560953, "center_y":0.559586, "width":0.020103, "height":0.150499}, "confidence":0.971090}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/test_video_frames/frame_140.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.378774, "center_y":0.764456, "width":0.056055, "height":0.386555}, "confidence":0.982983}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.566626, "center_y":0.763481, "width":0.032551, "height":0.358922}, "confidence":0.966186}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.480832, "center_y":0.439198, "width":0.040664, "height":0.059226}, "confidence":0.964143}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/test_video_frames/frame_141.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.377995, "center_y":0.764152, "width":0.054154, "height":0.388011}, "confidence":0.981882}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.566283, "center_y":0.762754, "width":0.033331, "height":0.361324}, "confidence":0.968369}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.479687, "center_y":0.437769, "width":0.040698, "height":0.057716}, "confidence":0.965168}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/test_video_frames/frame_142.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.376544, "center_y":0.764471, "width":0.050271, "height":0.403309}, "confidence":0.963576}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.565852, "center_y":0.762029, "width":0.035086, "height":0.358034}, "confidence":0.971391}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.478033, "center_y":0.435752, "width":0.040425, "height":0.053921}, "confidence":0.953803}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/test_video_frames/frame_143.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.373310, "center_y":0.764830, "width":0.056450, "height":0.392082}, "confidence":0.948614}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.564858, "center_y":0.760878, "width":0.033541, "height":0.353788}, "confidence":0.963911}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.476260, "center_y":0.437479, "width":0.042430, "height":0.057235}, "confidence":0.924351}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/test_video_frames/frame_144.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370420, "center_y":0.763230, "width":0.058463, "height":0.407241}, "confidence":0.977426}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563765, "center_y":0.761876, "width":0.032109, "height":0.360330}, "confidence":0.921417}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.474051, "center_y":0.439312, "width":0.043779, "height":0.060350}, "confidence":0.858677}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data/test_video_frames/frame_145.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.368874, "center_y":0.760916, "width":0.059209, "height":0.358506}, "confidence":0.989659}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563980, "center_y":0.762420, "width":0.034236, "height":0.315814}, "confidence":0.881900}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.471662, "center_y":0.440298, "width":0.038766, "height":0.055672}, "confidence":0.922043}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data/test_video_frames/frame_146.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.365958, "center_y":0.760629, "width":0.056725, "height":0.372152}, "confidence":0.987788}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561145, "center_y":0.761896, "width":0.032135, "height":0.297012}, "confidence":0.897570}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data/test_video_frames/frame_147.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.365367, "center_y":0.763859, "width":0.052998, "height":0.374760}, "confidence":0.949988}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563902, "center_y":0.765485, "width":0.034810, "height":0.354933}, "confidence":0.887144}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data/test_video_frames/frame_148.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.564900, "center_y":0.778311, "width":0.031247, "height":0.314649}, "confidence":0.516022}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.761149, "center_y":0.556453, "width":0.010724, "height":0.135852}, "confidence":0.371106}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data/test_video_frames/frame_149.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.770284, "center_y":0.558119, "width":0.012565, "height":0.110268}, "confidence":0.929647}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data/test_video_frames/frame_14.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.455706, "center_y":0.565447, "width":0.042012, "height":0.198201}, "confidence":0.907516}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.560596, "center_y":0.559324, "width":0.019663, "height":0.168715}, "confidence":0.972479}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data/test_video_frames/frame_150.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.778720, "center_y":0.560198, "width":0.012183, "height":0.112780}, "confidence":0.917832}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data/test_video_frames/frame_151.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.788695, "center_y":0.557762, "width":0.013485, "height":0.123174}, "confidence":0.710683}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data/test_video_frames/frame_152.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.798088, "center_y":0.556615, "width":0.014274, "height":0.106326}, "confidence":0.938349}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data/test_video_frames/frame_153.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.807174, "center_y":0.557030, "width":0.014367, "height":0.105796}, "confidence":0.958903}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data/test_video_frames/frame_154.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.816902, "center_y":0.556474, "width":0.013729, "height":0.105746}, "confidence":0.969113}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data/test_video_frames/frame_155.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.826022, "center_y":0.557842, "width":0.014034, "height":0.123277}, "confidence":0.820725}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data/test_video_frames/frame_156.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.836520, "center_y":0.558858, "width":0.014698, "height":0.111121}, "confidence":0.952233}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data/test_video_frames/frame_157.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.846909, "center_y":0.559769, "width":0.016193, "height":0.109060}, "confidence":0.953529}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.059459, "center_y":0.581634, "width":0.026791, "height":0.201325}, "confidence":0.613783}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data/test_video_frames/frame_158.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.856750, "center_y":0.561843, "width":0.019588, "height":0.113021}, "confidence":0.940752}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.046910, "center_y":0.580136, "width":0.021803, "height":0.178462}, "confidence":0.832533}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data/test_video_frames/frame_159.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.867237, "center_y":0.559994, "width":0.017176, "height":0.109936}, "confidence":0.976116}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.027929, "center_y":0.579418, "width":0.021259, "height":0.180514}, "confidence":0.722934}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data/test_video_frames/frame_15.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.452520, "center_y":0.561062, "width":0.042653, "height":0.211230}, "confidence":0.948772}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.559606, "center_y":0.560635, "width":0.019320, "height":0.161586}, "confidence":0.960171}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data/test_video_frames/frame_160.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.877357, "center_y":0.559632, "width":0.015851, "height":0.127870}, "confidence":0.959196}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.010471, "center_y":0.580018, "width":0.017479, "height":0.164418}, "confidence":0.505929}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data/test_video_frames/frame_161.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.887058, "center_y":0.556754, "width":0.015747, "height":0.125136}, "confidence":0.869128}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data/test_video_frames/frame_162.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.896958, "center_y":0.560379, "width":0.016860, "height":0.118093}, "confidence":0.962166}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data/test_video_frames/frame_163.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.905044, "center_y":0.559761, "width":0.017743, "height":0.116577}, "confidence":0.973448}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data/test_video_frames/frame_164.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.914644, "center_y":0.559503, "width":0.017444, "height":0.126636}, "confidence":0.944366}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data/test_video_frames/frame_165.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924091, "center_y":0.558566, "width":0.016568, "height":0.127145}, "confidence":0.904407}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data/test_video_frames/frame_166.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.933029, "center_y":0.560673, "width":0.017966, "height":0.122445}, "confidence":0.969381}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data/test_video_frames/frame_167.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.940541, "center_y":0.560760, "width":0.018947, "height":0.120338}, "confidence":0.954398}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data/test_video_frames/frame_168.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.947436, "center_y":0.560281, "width":0.020421, "height":0.111926}, "confidence":0.965622}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data/test_video_frames/frame_169.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.951933, "center_y":0.559463, "width":0.021831, "height":0.134757}, "confidence":0.932795}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data/test_video_frames/frame_16.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.450852, "center_y":0.569809, "width":0.042862, "height":0.225709}, "confidence":0.907531}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.557147, "center_y":0.562110, "width":0.018717, "height":0.164262}, "confidence":0.968054}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data/test_video_frames/frame_170.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.952980, "center_y":0.561326, "width":0.022409, "height":0.121885}, "confidence":0.969932}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data/test_video_frames/frame_171.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.953323, "center_y":0.559992, "width":0.023351, "height":0.130441}, "confidence":0.961444}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data/test_video_frames/frame_172.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.951636, "center_y":0.559051, "width":0.022120, "height":0.136366}, "confidence":0.866663}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data/test_video_frames/frame_17.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.448388, "center_y":0.569434, "width":0.045843, "height":0.206329}, "confidence":0.964462}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.553923, "center_y":0.561943, "width":0.020255, "height":0.167675}, "confidence":0.978932}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data/test_video_frames/frame_18.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.446736, "center_y":0.567929, "width":0.047451, "height":0.212112}, "confidence":0.968652}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551528, "center_y":0.563640, "width":0.020634, "height":0.181263}, "confidence":0.951668}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data/test_video_frames/frame_19.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.443533, "center_y":0.567822, "width":0.049734, "height":0.206856}, "confidence":0.954354}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.550645, "center_y":0.563291, "width":0.021626, "height":0.185915}, "confidence":0.822406}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data/test_video_frames/frame_1.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.571732, "center_y":0.539729, "width":0.022425, "height":0.142297}, "confidence":0.977668}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data/test_video_frames/frame_20.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.440671, "center_y":0.573301, "width":0.049340, "height":0.212240}, "confidence":0.963259}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.547909, "center_y":0.564132, "width":0.021550, "height":0.161468}, "confidence":0.722814}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data/test_video_frames/frame_21.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.438637, "center_y":0.576061, "width":0.049026, "height":0.217903}, "confidence":0.937121}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.545712, "center_y":0.571425, "width":0.018980, "height":0.196334}, "confidence":0.843041}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data/test_video_frames/frame_22.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.436221, "center_y":0.577404, "width":0.049342, "height":0.219176}, "confidence":0.965301}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.544207, "center_y":0.573289, "width":0.019889, "height":0.186181}, "confidence":0.940208}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data/test_video_frames/frame_23.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.434809, "center_y":0.575305, "width":0.047776, "height":0.198932}, "confidence":0.950809}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.541741, "center_y":0.574932, "width":0.018258, "height":0.190627}, "confidence":0.953812}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data/test_video_frames/frame_24.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.430785, "center_y":0.578447, "width":0.050376, "height":0.215013}, "confidence":0.968263}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539583, "center_y":0.577037, "width":0.019956, "height":0.196061}, "confidence":0.954933}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data/test_video_frames/frame_25.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.428449, "center_y":0.577257, "width":0.047982, "height":0.219482}, "confidence":0.974601}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.538607, "center_y":0.574311, "width":0.019488, "height":0.207302}, "confidence":0.854745}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data/test_video_frames/frame_26.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.427314, "center_y":0.579235, "width":0.046146, "height":0.218374}, "confidence":0.956516}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.536639, "center_y":0.578331, "width":0.020951, "height":0.175458}, "confidence":0.937666}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data/test_video_frames/frame_27.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.425721, "center_y":0.580637, "width":0.046578, "height":0.216582}, "confidence":0.922366}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.536386, "center_y":0.579318, "width":0.020798, "height":0.168856}, "confidence":0.928338}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data/test_video_frames/frame_28.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.424453, "center_y":0.583494, "width":0.047686, "height":0.213406}, "confidence":0.910652}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535355, "center_y":0.581389, "width":0.020576, "height":0.173912}, "confidence":0.971511}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data/test_video_frames/frame_29.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.422581, "center_y":0.584197, "width":0.048306, "height":0.217219}, "confidence":0.954473}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.533496, "center_y":0.584777, "width":0.021464, "height":0.178154}, "confidence":0.966994}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data/test_video_frames/frame_2.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.571350, "center_y":0.540619, "width":0.022512, "height":0.147126}, "confidence":0.976590}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.512159, "center_y":0.337109, "width":0.037835, "height":0.055065}, "confidence":0.792065}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data/test_video_frames/frame_30.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.417642, "center_y":0.582610, "width":0.049497, "height":0.208756}, "confidence":0.955091}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.531521, "center_y":0.586572, "width":0.020785, "height":0.181018}, "confidence":0.897116}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data/test_video_frames/frame_31.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.414978, "center_y":0.585470, "width":0.047191, "height":0.215085}, "confidence":0.945528}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.528438, "center_y":0.585799, "width":0.022239, "height":0.191416}, "confidence":0.965738}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data/test_video_frames/frame_32.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.409800, "center_y":0.587370, "width":0.048917, "height":0.219131}, "confidence":0.916769}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.524658, "center_y":0.586879, "width":0.019199, "height":0.179596}, "confidence":0.657627}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data/test_video_frames/frame_33.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.404752, "center_y":0.594408, "width":0.046724, "height":0.266408}, "confidence":0.957750}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.520715, "center_y":0.588369, "width":0.019263, "height":0.178907}, "confidence":0.833051}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data/test_video_frames/frame_34.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.399198, "center_y":0.596097, "width":0.045959, "height":0.196902}, "confidence":0.897195}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.516532, "center_y":0.596216, "width":0.020124, "height":0.210293}, "confidence":0.933225}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.449493, "center_y":0.366426, "width":0.026947, "height":0.063050}, "confidence":0.429340}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data/test_video_frames/frame_35.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.396285, "center_y":0.597457, "width":0.046925, "height":0.236319}, "confidence":0.984786}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.512352, "center_y":0.595072, "width":0.020677, "height":0.197560}, "confidence":0.779629}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.446192, "center_y":0.366581, "width":0.030317, "height":0.053516}, "confidence":0.869786}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data/test_video_frames/frame_36.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.393435, "center_y":0.600363, "width":0.050395, "height":0.227958}, "confidence":0.988050}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.511015, "center_y":0.598415, "width":0.021144, "height":0.194542}, "confidence":0.954538}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.442669, "center_y":0.367005, "width":0.029875, "height":0.055112}, "confidence":0.905711}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data/test_video_frames/frame_37.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.391583, "center_y":0.598059, "width":0.048659, "height":0.235579}, "confidence":0.987664}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.510651, "center_y":0.597986, "width":0.020955, "height":0.192985}, "confidence":0.957231}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.441212, "center_y":0.366099, "width":0.030778, "height":0.051261}, "confidence":0.933846}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data/test_video_frames/frame_38.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.392665, "center_y":0.598704, "width":0.050733, "height":0.237399}, "confidence":0.988199}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.511672, "center_y":0.596528, "width":0.019506, "height":0.207463}, "confidence":0.903869}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.441703, "center_y":0.365728, "width":0.030566, "height":0.052345}, "confidence":0.887217}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data/test_video_frames/frame_39.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.395477, "center_y":0.600396, "width":0.049952, "height":0.234173}, "confidence":0.988288}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.515127, "center_y":0.600709, "width":0.019557, "height":0.222003}, "confidence":0.967038}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.444816, "center_y":0.361425, "width":0.031132, "height":0.051982}, "confidence":0.880034}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data/test_video_frames/frame_3.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.570385, "center_y":0.541116, "width":0.023169, "height":0.148071}, "confidence":0.971149}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.511996, "center_y":0.338180, "width":0.037409, "height":0.053481}, "confidence":0.857311}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data/test_video_frames/frame_40.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.401183, "center_y":0.597333, "width":0.045523, "height":0.237401}, "confidence":0.928069}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.519863, "center_y":0.602342, "width":0.021540, "height":0.192744}, "confidence":0.971441}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.449327, "center_y":0.365718, "width":0.031720, "height":0.056895}, "confidence":0.895473}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data/test_video_frames/frame_41.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.404381, "center_y":0.600880, "width":0.045892, "height":0.234485}, "confidence":0.984417}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.524804, "center_y":0.602473, "width":0.021304, "height":0.186743}, "confidence":0.900818}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.452859, "center_y":0.366841, "width":0.031819, "height":0.051359}, "confidence":0.966883}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"data/test_video_frames/frame_42.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.408725, "center_y":0.605612, "width":0.050085, "height":0.231654}, "confidence":0.990049}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.529481, "center_y":0.604373, "width":0.023518, "height":0.200044}, "confidence":0.411704}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.529718, "center_y":0.605188, "width":0.025602, "height":0.187449}, "confidence":0.668704}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.457866, "center_y":0.369536, "width":0.032091, "height":0.049479}, "confidence":0.976717}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.531092, "center_y":0.314432, "width":0.018453, "height":0.053388}, "confidence":0.447924}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"data/test_video_frames/frame_43.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.413135, "center_y":0.609282, "width":0.052535, "height":0.228817}, "confidence":0.980858}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.462922, "center_y":0.370679, "width":0.030891, "height":0.048784}, "confidence":0.913573}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.536388, "center_y":0.606954, "width":0.028301, "height":0.158875}, "confidence":0.863328}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.535920, "center_y":0.315467, "width":0.018698, "height":0.055224}, "confidence":0.807522}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"data/test_video_frames/frame_44.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.417992, "center_y":0.611054, "width":0.051957, "height":0.239997}, "confidence":0.993401}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.466825, "center_y":0.370809, "width":0.032046, "height":0.052163}, "confidence":0.976820}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.541746, "center_y":0.606770, "width":0.028143, "height":0.165063}, "confidence":0.959128}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.540185, "center_y":0.314371, "width":0.017485, "height":0.057078}, "confidence":0.920227}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"data/test_video_frames/frame_45.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.423010, "center_y":0.609389, "width":0.049201, "height":0.226984}, "confidence":0.987040}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.549158, "center_y":0.615937, "width":0.021468, "height":0.207170}, "confidence":0.546486}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.548448, "center_y":0.609806, "width":0.022100, "height":0.190000}, "confidence":0.311030}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.471937, "center_y":0.369316, "width":0.033086, "height":0.051570}, "confidence":0.975386}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.544568, "center_y":0.314483, "width":0.022005, "height":0.053821}, "confidence":0.923685}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"data/test_video_frames/frame_46.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.426740, "center_y":0.612151, "width":0.045331, "height":0.240818}, "confidence":0.978109}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.553228, "center_y":0.617275, "width":0.021138, "height":0.228415}, "confidence":0.788413}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.475730, "center_y":0.367210, "width":0.032236, "height":0.048067}, "confidence":0.935943}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.549195, "center_y":0.312116, "width":0.022243, "height":0.056181}, "confidence":0.897009}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"data/test_video_frames/frame_47.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.430560, "center_y":0.612941, "width":0.048897, "height":0.249157}, "confidence":0.986468}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.560040, "center_y":0.618910, "width":0.022581, "height":0.210113}, "confidence":0.900949}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.479157, "center_y":0.367031, "width":0.031776, "height":0.048540}, "confidence":0.965957}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.552367, "center_y":0.313314, "width":0.023074, "height":0.048932}, "confidence":0.960294}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"data/test_video_frames/frame_48.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.434935, "center_y":0.617850, "width":0.051061, "height":0.251686}, "confidence":0.979150}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563405, "center_y":0.621891, "width":0.024201, "height":0.220540}, "confidence":0.846981}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.482999, "center_y":0.368869, "width":0.032978, "height":0.047295}, "confidence":0.971905}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.556602, "center_y":0.314592, "width":0.022108, "height":0.050210}, "confidence":0.944283}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"data/test_video_frames/frame_49.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.437975, "center_y":0.619450, "width":0.051121, "height":0.239043}, "confidence":0.978967}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.565177, "center_y":0.624412, "width":0.025394, "height":0.202752}, "confidence":0.891924}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.566979, "center_y":0.623149, "width":0.026201, "height":0.233783}, "confidence":0.282585}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.484757, "center_y":0.371959, "width":0.033246, "height":0.047609}, "confidence":0.967266}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.559291, "center_y":0.314402, "width":0.019021, "height":0.056470}, "confidence":0.939893}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"data/test_video_frames/frame_4.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.568093, "center_y":0.542119, "width":0.022099, "height":0.155016}, "confidence":0.962870}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.512273, "center_y":0.342210, "width":0.032758, "height":0.062833}, "confidence":0.712105}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"data/test_video_frames/frame_50.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.437820, "center_y":0.625342, "width":0.051123, "height":0.237504}, "confidence":0.981100}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.484521, "center_y":0.374990, "width":0.033314, "height":0.049037}, "confidence":0.974824}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.566060, "center_y":0.627432, "width":0.030222, "height":0.180640}, "confidence":0.945557}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.560371, "center_y":0.316261, "width":0.021128, "height":0.053840}, "confidence":0.800843}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"data/test_video_frames/frame_51.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.436854, "center_y":0.629210, "width":0.051339, "height":0.233556}, "confidence":0.965998}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.567025, "center_y":0.629904, "width":0.022682, "height":0.215941}, "confidence":0.961558}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.483497, "center_y":0.378844, "width":0.034715, "height":0.049781}, "confidence":0.975887}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.561035, "center_y":0.321538, "width":0.021045, "height":0.051141}, "confidence":0.895024}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"data/test_video_frames/frame_52.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.435071, "center_y":0.630392, "width":0.048452, "height":0.234663}, "confidence":0.958786}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.565603, "center_y":0.632316, "width":0.022801, "height":0.217017}, "confidence":0.931995}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.481139, "center_y":0.380672, "width":0.035797, "height":0.050530}, "confidence":0.975961}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.560250, "center_y":0.324742, "width":0.022320, "height":0.053000}, "confidence":0.962947}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"data/test_video_frames/frame_53.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.431946, "center_y":0.630133, "width":0.052132, "height":0.230026}, "confidence":0.969473}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.563517, "center_y":0.632447, "width":0.023879, "height":0.257234}, "confidence":0.780612}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.478051, "center_y":0.382288, "width":0.036131, "height":0.051314}, "confidence":0.968382}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.557870, "center_y":0.326208, "width":0.022164, "height":0.049163}, "confidence":0.964286}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"data/test_video_frames/frame_54.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.429349, "center_y":0.632789, "width":0.047198, "height":0.230228}, "confidence":0.960355}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561887, "center_y":0.641819, "width":0.021341, "height":0.220483}, "confidence":0.899757}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.475664, "center_y":0.384756, "width":0.037404, "height":0.059106}, "confidence":0.843497}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.556006, "center_y":0.327707, "width":0.023375, "height":0.052226}, "confidence":0.969674}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"data/test_video_frames/frame_55.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.427167, "center_y":0.640024, "width":0.045733, "height":0.278846}, "confidence":0.961127}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.560284, "center_y":0.643187, "width":0.022957, "height":0.218459}, "confidence":0.955102}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.474403, "center_y":0.387700, "width":0.032648, "height":0.060323}, "confidence":0.857468}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.553828, "center_y":0.328866, "width":0.022193, "height":0.051313}, "confidence":0.960824}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"data/test_video_frames/frame_56.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.423975, "center_y":0.640594, "width":0.046360, "height":0.225431}, "confidence":0.914835}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.558797, "center_y":0.644854, "width":0.022995, "height":0.226849}, "confidence":0.963429}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.472095, "center_y":0.388609, "width":0.034327, "height":0.056253}, "confidence":0.938235}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.553020, "center_y":0.330862, "width":0.017773, "height":0.055698}, "confidence":0.678449}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"data/test_video_frames/frame_57.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.423038, "center_y":0.639713, "width":0.045113, "height":0.237255}, "confidence":0.931922}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.556051, "center_y":0.645565, "width":0.022772, "height":0.222185}, "confidence":0.980460}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.469322, "center_y":0.389476, "width":0.033054, "height":0.053562}, "confidence":0.964072}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"data/test_video_frames/frame_58.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.420615, "center_y":0.640114, "width":0.046004, "height":0.235271}, "confidence":0.962038}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.554049, "center_y":0.645070, "width":0.022718, "height":0.233611}, "confidence":0.974531}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.467655, "center_y":0.392308, "width":0.033612, "height":0.055396}, "confidence":0.980012}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"data/test_video_frames/frame_59.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.418846, "center_y":0.643844, "width":0.048009, "height":0.257653}, "confidence":0.982956}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.553260, "center_y":0.649238, "width":0.022910, "height":0.219761}, "confidence":0.986751}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.465464, "center_y":0.394347, "width":0.034515, "height":0.056772}, "confidence":0.971521}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"data/test_video_frames/frame_5.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.565887, "center_y":0.550555, "width":0.021905, "height":0.167510}, "confidence":0.956791}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.511992, "center_y":0.344927, "width":0.030274, "height":0.062291}, "confidence":0.896429}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"data/test_video_frames/frame_60.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.417309, "center_y":0.647222, "width":0.049894, "height":0.260924}, "confidence":0.988033}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551873, "center_y":0.649570, "width":0.022743, "height":0.213662}, "confidence":0.972948}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.464452, "center_y":0.398048, "width":0.035784, "height":0.057587}, "confidence":0.967269}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"data/test_video_frames/frame_61.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.415758, "center_y":0.646944, "width":0.049065, "height":0.267853}, "confidence":0.989579}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.552028, "center_y":0.650849, "width":0.024673, "height":0.215460}, "confidence":0.968444}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.464070, "center_y":0.399694, "width":0.036456, "height":0.055659}, "confidence":0.969318}
+ ] 
+}, 
+{
+ "frame_id":132, 
+ "filename":"data/test_video_frames/frame_62.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.413504, "center_y":0.648291, "width":0.052224, "height":0.264901}, "confidence":0.990871}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551385, "center_y":0.651049, "width":0.023178, "height":0.239484}, "confidence":0.940286}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.463739, "center_y":0.401020, "width":0.036081, "height":0.055944}, "confidence":0.960682}
+ ] 
+}, 
+{
+ "frame_id":133, 
+ "filename":"data/test_video_frames/frame_63.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.413093, "center_y":0.650265, "width":0.052193, "height":0.274487}, "confidence":0.992633}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551426, "center_y":0.650359, "width":0.022689, "height":0.247365}, "confidence":0.934013}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.463970, "center_y":0.400997, "width":0.035027, "height":0.054244}, "confidence":0.961133}
+ ] 
+}, 
+{
+ "frame_id":134, 
+ "filename":"data/test_video_frames/frame_64.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.411153, "center_y":0.652595, "width":0.051150, "height":0.272311}, "confidence":0.991346}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.550943, "center_y":0.651270, "width":0.026011, "height":0.270642}, "confidence":0.913074}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.464213, "center_y":0.401383, "width":0.035032, "height":0.056076}, "confidence":0.953935}
+ ] 
+}, 
+{
+ "frame_id":135, 
+ "filename":"data/test_video_frames/frame_65.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.410454, "center_y":0.653785, "width":0.053443, "height":0.275545}, "confidence":0.993771}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551127, "center_y":0.651306, "width":0.025568, "height":0.278776}, "confidence":0.921570}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.464553, "center_y":0.402153, "width":0.034073, "height":0.056102}, "confidence":0.940989}
+ ] 
+}, 
+{
+ "frame_id":136, 
+ "filename":"data/test_video_frames/frame_66.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.411299, "center_y":0.653574, "width":0.053067, "height":0.275917}, "confidence":0.993117}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551163, "center_y":0.653574, "width":0.026383, "height":0.260554}, "confidence":0.914528}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.464882, "center_y":0.402946, "width":0.034122, "height":0.057024}, "confidence":0.915295}
+ ] 
+}, 
+{
+ "frame_id":137, 
+ "filename":"data/test_video_frames/frame_67.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.410753, "center_y":0.657376, "width":0.051841, "height":0.278302}, "confidence":0.990510}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.552159, "center_y":0.653797, "width":0.028636, "height":0.273591}, "confidence":0.913652}
+ ] 
+}, 
+{
+ "frame_id":138, 
+ "filename":"data/test_video_frames/frame_68.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.409334, "center_y":0.656913, "width":0.054520, "height":0.281258}, "confidence":0.987835}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.552127, "center_y":0.662555, "width":0.026711, "height":0.293383}, "confidence":0.826143}
+ ] 
+}, 
+{
+ "frame_id":139, 
+ "filename":"data/test_video_frames/frame_69.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.408805, "center_y":0.656632, "width":0.055197, "height":0.280829}, "confidence":0.990933}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.552332, "center_y":0.663066, "width":0.027734, "height":0.283284}, "confidence":0.890815}
+ ] 
+}, 
+{
+ "frame_id":140, 
+ "filename":"data/test_video_frames/frame_6.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.564214, "center_y":0.554023, "width":0.021408, "height":0.168176}, "confidence":0.955126}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.511624, "center_y":0.348508, "width":0.031165, "height":0.061948}, "confidence":0.856571}
+ ] 
+}, 
+{
+ "frame_id":141, 
+ "filename":"data/test_video_frames/frame_70.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.406986, "center_y":0.661921, "width":0.056823, "height":0.273546}, "confidence":0.984718}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551713, "center_y":0.664162, "width":0.029005, "height":0.268980}, "confidence":0.922707}
+ ] 
+}, 
+{
+ "frame_id":142, 
+ "filename":"data/test_video_frames/frame_71.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.407519, "center_y":0.662928, "width":0.052713, "height":0.279204}, "confidence":0.989696}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.551417, "center_y":0.665142, "width":0.029279, "height":0.284835}, "confidence":0.920990}
+ ] 
+}, 
+{
+ "frame_id":143, 
+ "filename":"data/test_video_frames/frame_72.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.405250, "center_y":0.663274, "width":0.049094, "height":0.281192}, "confidence":0.986118}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.550757, "center_y":0.666151, "width":0.029961, "height":0.277041}, "confidence":0.838683}
+ ] 
+}, 
+{
+ "frame_id":144, 
+ "filename":"data/test_video_frames/frame_73.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.402756, "center_y":0.667724, "width":0.044107, "height":0.254736}, "confidence":0.972639}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.548114, "center_y":0.666921, "width":0.029549, "height":0.249857}, "confidence":0.921311}
+ ] 
+}, 
+{
+ "frame_id":145, 
+ "filename":"data/test_video_frames/frame_74.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.401588, "center_y":0.667036, "width":0.042165, "height":0.266956}, "confidence":0.959454}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.546574, "center_y":0.667176, "width":0.029679, "height":0.242442}, "confidence":0.957141}
+ ] 
+}, 
+{
+ "frame_id":146, 
+ "filename":"data/test_video_frames/frame_75.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.397649, "center_y":0.668065, "width":0.052108, "height":0.283902}, "confidence":0.986047}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.545141, "center_y":0.670477, "width":0.031625, "height":0.257320}, "confidence":0.967493}
+ ] 
+}, 
+{
+ "frame_id":147, 
+ "filename":"data/test_video_frames/frame_76.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.393982, "center_y":0.669277, "width":0.051124, "height":0.286286}, "confidence":0.990113}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.544364, "center_y":0.671918, "width":0.024648, "height":0.226958}, "confidence":0.984971}
+ ] 
+}, 
+{
+ "frame_id":148, 
+ "filename":"data/test_video_frames/frame_77.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.389841, "center_y":0.669046, "width":0.055019, "height":0.288057}, "confidence":0.989577}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.541319, "center_y":0.672486, "width":0.034606, "height":0.277456}, "confidence":0.964164}
+ ] 
+}, 
+{
+ "frame_id":149, 
+ "filename":"data/test_video_frames/frame_78.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.387482, "center_y":0.672445, "width":0.052892, "height":0.283864}, "confidence":0.984089}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539067, "center_y":0.674254, "width":0.031986, "height":0.281549}, "confidence":0.923278}
+ ] 
+}, 
+{
+ "frame_id":150, 
+ "filename":"data/test_video_frames/frame_79.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.384632, "center_y":0.674456, "width":0.050132, "height":0.282651}, "confidence":0.978070}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.538893, "center_y":0.673826, "width":0.033710, "height":0.297356}, "confidence":0.927441}
+ ] 
+}, 
+{
+ "frame_id":151, 
+ "filename":"data/test_video_frames/frame_7.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.562370, "center_y":0.556520, "width":0.022209, "height":0.166384}, "confidence":0.894731}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.511883, "center_y":0.353051, "width":0.030338, "height":0.064546}, "confidence":0.789877}
+ ] 
+}, 
+{
+ "frame_id":152, 
+ "filename":"data/test_video_frames/frame_80.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.380962, "center_y":0.674999, "width":0.049512, "height":0.278905}, "confidence":0.981226}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539367, "center_y":0.686790, "width":0.036723, "height":0.313931}, "confidence":0.749396}
+ ] 
+}, 
+{
+ "frame_id":153, 
+ "filename":"data/test_video_frames/frame_81.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.377497, "center_y":0.676422, "width":0.048103, "height":0.288929}, "confidence":0.968589}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.534907, "center_y":0.686772, "width":0.034072, "height":0.262916}, "confidence":0.901374}
+ ] 
+}, 
+{
+ "frame_id":154, 
+ "filename":"data/test_video_frames/frame_82.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.376301, "center_y":0.685941, "width":0.042913, "height":0.290327}, "confidence":0.919079}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.533075, "center_y":0.689755, "width":0.035767, "height":0.253083}, "confidence":0.964924}
+ ] 
+}, 
+{
+ "frame_id":155, 
+ "filename":"data/test_video_frames/frame_83.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.372192, "center_y":0.685369, "width":0.048512, "height":0.276542}, "confidence":0.961098}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.532345, "center_y":0.690732, "width":0.037210, "height":0.255138}, "confidence":0.965560}
+ ] 
+}, 
+{
+ "frame_id":156, 
+ "filename":"data/test_video_frames/frame_84.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370276, "center_y":0.686894, "width":0.049861, "height":0.280692}, "confidence":0.977864}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.532964, "center_y":0.690248, "width":0.037154, "height":0.254302}, "confidence":0.969873}
+ ] 
+}, 
+{
+ "frame_id":157, 
+ "filename":"data/test_video_frames/frame_85.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370684, "center_y":0.687053, "width":0.051518, "height":0.280976}, "confidence":0.976673}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.533939, "center_y":0.688359, "width":0.036614, "height":0.258615}, "confidence":0.953433}
+ ] 
+}, 
+{
+ "frame_id":158, 
+ "filename":"data/test_video_frames/frame_86.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370875, "center_y":0.687870, "width":0.051923, "height":0.282722}, "confidence":0.978200}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535068, "center_y":0.690339, "width":0.035895, "height":0.255230}, "confidence":0.941754}
+ ] 
+}, 
+{
+ "frame_id":159, 
+ "filename":"data/test_video_frames/frame_87.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.369910, "center_y":0.688283, "width":0.051961, "height":0.274466}, "confidence":0.984917}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535878, "center_y":0.691332, "width":0.035025, "height":0.252016}, "confidence":0.905414}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.448687, "center_y":0.419676, "width":0.029495, "height":0.062205}, "confidence":0.621892}
+ ] 
+}, 
+{
+ "frame_id":160, 
+ "filename":"data/test_video_frames/frame_88.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370483, "center_y":0.690517, "width":0.051413, "height":0.290414}, "confidence":0.987650}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.538530, "center_y":0.693000, "width":0.033206, "height":0.287838}, "confidence":0.937539}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.449225, "center_y":0.417956, "width":0.028882, "height":0.063391}, "confidence":0.254876}
+ ] 
+}, 
+{
+ "frame_id":161, 
+ "filename":"data/test_video_frames/frame_89.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.371243, "center_y":0.691090, "width":0.052585, "height":0.294932}, "confidence":0.986326}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539461, "center_y":0.691124, "width":0.034800, "height":0.288298}, "confidence":0.972192}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.451379, "center_y":0.416898, "width":0.032808, "height":0.058805}, "confidence":0.799131}
+ ] 
+}, 
+{
+ "frame_id":162, 
+ "filename":"data/test_video_frames/frame_8.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561672, "center_y":0.558366, "width":0.022739, "height":0.157594}, "confidence":0.964020}
+ ] 
+}, 
+{
+ "frame_id":163, 
+ "filename":"data/test_video_frames/frame_90.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.370111, "center_y":0.689820, "width":0.054229, "height":0.301327}, "confidence":0.988994}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.539275, "center_y":0.691424, "width":0.033281, "height":0.284726}, "confidence":0.970436}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.452199, "center_y":0.413206, "width":0.033346, "height":0.058075}, "confidence":0.883453}
+ ] 
+}, 
+{
+ "frame_id":164, 
+ "filename":"data/test_video_frames/frame_91.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.368738, "center_y":0.694006, "width":0.055706, "height":0.293650}, "confidence":0.989764}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.538793, "center_y":0.692285, "width":0.031068, "height":0.288659}, "confidence":0.958176}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.452822, "center_y":0.410794, "width":0.033413, "height":0.060299}, "confidence":0.730001}
+ ] 
+}, 
+{
+ "frame_id":165, 
+ "filename":"data/test_video_frames/frame_92.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.367385, "center_y":0.696049, "width":0.055962, "height":0.303029}, "confidence":0.993399}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.538343, "center_y":0.695600, "width":0.030382, "height":0.268669}, "confidence":0.937409}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.452034, "center_y":0.406275, "width":0.038016, "height":0.068586}, "confidence":0.719452}
+ ] 
+}, 
+{
+ "frame_id":166, 
+ "filename":"data/test_video_frames/frame_93.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.365348, "center_y":0.694770, "width":0.056306, "height":0.302979}, "confidence":0.991464}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.535961, "center_y":0.694995, "width":0.032263, "height":0.253524}, "confidence":0.931186}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.450888, "center_y":0.403796, "width":0.038488, "height":0.064988}, "confidence":0.828764}
+ ] 
+}, 
+{
+ "frame_id":167, 
+ "filename":"data/test_video_frames/frame_94.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.362123, "center_y":0.699707, "width":0.056287, "height":0.307511}, "confidence":0.991837}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.533580, "center_y":0.695655, "width":0.033332, "height":0.278110}, "confidence":0.963311}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.448487, "center_y":0.401778, "width":0.033890, "height":0.058532}, "confidence":0.904571}
+ ] 
+}, 
+{
+ "frame_id":168, 
+ "filename":"data/test_video_frames/frame_95.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.357348, "center_y":0.700499, "width":0.057789, "height":0.308525}, "confidence":0.991647}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.529815, "center_y":0.698236, "width":0.033039, "height":0.280198}, "confidence":0.950602}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.415892, "center_y":0.648847, "width":0.013477, "height":0.167000}, "confidence":0.278796}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.445444, "center_y":0.401608, "width":0.035584, "height":0.056407}, "confidence":0.941162}
+ ] 
+}, 
+{
+ "frame_id":169, 
+ "filename":"data/test_video_frames/frame_96.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.354178, "center_y":0.700285, "width":0.055281, "height":0.319305}, "confidence":0.989756}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.527151, "center_y":0.698553, "width":0.032950, "height":0.306423}, "confidence":0.917418}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.442083, "center_y":0.402429, "width":0.034341, "height":0.064734}, "confidence":0.689579}
+ ] 
+}, 
+{
+ "frame_id":170, 
+ "filename":"data/test_video_frames/frame_97.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.352057, "center_y":0.702098, "width":0.053692, "height":0.322535}, "confidence":0.979200}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.525797, "center_y":0.709084, "width":0.031041, "height":0.300234}, "confidence":0.859230}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.439263, "center_y":0.404026, "width":0.039452, "height":0.069850}, "confidence":0.824922}
+ ] 
+}, 
+{
+ "frame_id":171, 
+ "filename":"data/test_video_frames/frame_98.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.348591, "center_y":0.705960, "width":0.056578, "height":0.318935}, "confidence":0.973255}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.523677, "center_y":0.709336, "width":0.030067, "height":0.317620}, "confidence":0.907486}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.436142, "center_y":0.404769, "width":0.044021, "height":0.066420}, "confidence":0.894317}
+ ] 
+}, 
+{
+ "frame_id":172, 
+ "filename":"data/test_video_frames/frame_99.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.344868, "center_y":0.706054, "width":0.058919, "height":0.317778}, "confidence":0.993964}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.520194, "center_y":0.711039, "width":0.035462, "height":0.281391}, "confidence":0.968085}, 
+  {"class_id":1, "name":"Jumbo", "relative_coordinates":{"center_x":0.432437, "center_y":0.405922, "width":0.041751, "height":0.070671}, "confidence":0.778440}
+ ] 
+}, 
+{
+ "frame_id":173, 
+ "filename":"data/test_video_frames/frame_9.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.561149, "center_y":0.557400, "width":0.022572, "height":0.165554}, "confidence":0.970545}
+ ] 
+}
+]

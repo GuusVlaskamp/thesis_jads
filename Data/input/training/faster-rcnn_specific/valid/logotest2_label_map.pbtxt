@@ -1,0 +1,25 @@
+item {
+    name: "Campina",
+    id: 1,
+    display_name: "Campina"
+}
+item {
+    name: "Jumbo",
+    id: 2,
+    display_name: "Jumbo"
+}
+item {
+    name: "JumboBeen",
+    id: 3,
+    display_name: "JumboBeen"
+}
+item {
+    name: "Loterij",
+    id: 4,
+    display_name: "Loterij"
+}
+item {
+    name: "LoterijBeen",
+    id: 5,
+    display_name: "LoterijBeen"
+}

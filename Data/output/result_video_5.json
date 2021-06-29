@@ -1,0 +1,2964 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/test_video_frames/frame_0.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.239690, "center_y":0.610639, "width":0.033315, "height":0.075976}, "confidence":0.968677}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.921891, "center_y":0.593568, "width":0.017814, "height":0.047813}, "confidence":0.939127}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/test_video_frames/frame_100.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.147878, "center_y":0.551439, "width":0.011139, "height":0.031508}, "confidence":0.390917}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/test_video_frames/frame_101.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.143282, "center_y":0.645391, "width":0.012568, "height":0.103554}, "confidence":0.535108}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/test_video_frames/frame_102.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Loterij_been", "relative_coordinates":{"center_x":0.128446, "center_y":0.647071, "width":0.031671, "height":0.174023}, "confidence":0.316977}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.889229, "center_y":0.599887, "width":0.014058, "height":0.072940}, "confidence":0.415411}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/test_video_frames/frame_103.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/test_video_frames/frame_104.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.186639, "center_y":0.652326, "width":0.016726, "height":0.126565}, "confidence":0.828401}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/test_video_frames/frame_105.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/test_video_frames/frame_106.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.170583, "center_y":0.664764, "width":0.016175, "height":0.120832}, "confidence":0.882901}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.126161, "center_y":0.640969, "width":0.010722, "height":0.068253}, "confidence":0.449558}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/test_video_frames/frame_107.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.169823, "center_y":0.650888, "width":0.016666, "height":0.110238}, "confidence":0.875200}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.146535, "center_y":0.629952, "width":0.013607, "height":0.057682}, "confidence":0.465483}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.872775, "center_y":0.606447, "width":0.012433, "height":0.128003}, "confidence":0.283396}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.126088, "center_y":0.642159, "width":0.009374, "height":0.075389}, "confidence":0.263785}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/test_video_frames/frame_108.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.165804, "center_y":0.630795, "width":0.021853, "height":0.054590}, "confidence":0.982014}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.142880, "center_y":0.632531, "width":0.017684, "height":0.053719}, "confidence":0.475774}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/test_video_frames/frame_109.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.166694, "center_y":0.620552, "width":0.022700, "height":0.056076}, "confidence":0.981810}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/test_video_frames/frame_10.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922900, "center_y":0.597140, "width":0.019188, "height":0.045904}, "confidence":0.965396}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.248148, "center_y":0.620167, "width":0.015791, "height":0.082738}, "confidence":0.730375}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/test_video_frames/frame_110.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.173191, "center_y":0.622480, "width":0.016448, "height":0.068818}, "confidence":0.903508}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.153463, "center_y":0.641041, "width":0.014285, "height":0.050117}, "confidence":0.307873}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/test_video_frames/frame_111.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.182310, "center_y":0.622545, "width":0.013346, "height":0.073133}, "confidence":0.836812}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.158516, "center_y":0.540537, "width":0.009547, "height":0.042814}, "confidence":0.484778}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/test_video_frames/frame_112.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.190353, "center_y":0.629775, "width":0.011010, "height":0.092779}, "confidence":0.279808}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.164440, "center_y":0.539758, "width":0.009738, "height":0.036839}, "confidence":0.410753}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/test_video_frames/frame_113.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.200919, "center_y":0.632245, "width":0.012941, "height":0.083900}, "confidence":0.594923}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.167344, "center_y":0.542314, "width":0.014635, "height":0.032240}, "confidence":0.433027}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/test_video_frames/frame_114.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.211382, "center_y":0.631418, "width":0.013524, "height":0.088512}, "confidence":0.298467}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/test_video_frames/frame_115.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.222779, "center_y":0.645964, "width":0.017148, "height":0.091052}, "confidence":0.838473}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/test_video_frames/frame_116.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.228005, "center_y":0.652559, "width":0.017202, "height":0.076449}, "confidence":0.700188}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/test_video_frames/frame_117.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.227617, "center_y":0.645425, "width":0.017411, "height":0.132926}, "confidence":0.748642}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/test_video_frames/frame_118.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.232206, "center_y":0.651541, "width":0.021744, "height":0.082350}, "confidence":0.922544}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/test_video_frames/frame_119.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.226767, "center_y":0.654939, "width":0.012676, "height":0.093421}, "confidence":0.794875}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/test_video_frames/frame_11.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922966, "center_y":0.597532, "width":0.019504, "height":0.046672}, "confidence":0.961903}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.248631, "center_y":0.619020, "width":0.015631, "height":0.076466}, "confidence":0.349318}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/test_video_frames/frame_120.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.224060, "center_y":0.655095, "width":0.014146, "height":0.098412}, "confidence":0.789705}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/test_video_frames/frame_121.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.225614, "center_y":0.642963, "width":0.014992, "height":0.069872}, "confidence":0.826435}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.209703, "center_y":0.552357, "width":0.013870, "height":0.029997}, "confidence":0.375058}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/test_video_frames/frame_122.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.226998, "center_y":0.628774, "width":0.024038, "height":0.047614}, "confidence":0.980567}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/test_video_frames/frame_123.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.231505, "center_y":0.623135, "width":0.025149, "height":0.049815}, "confidence":0.980770}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/test_video_frames/frame_124.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.237142, "center_y":0.624667, "width":0.017479, "height":0.058493}, "confidence":0.915523}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/test_video_frames/frame_125.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.245162, "center_y":0.623411, "width":0.011922, "height":0.078574}, "confidence":0.717339}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/test_video_frames/frame_126.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/test_video_frames/frame_127.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/test_video_frames/frame_128.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/test_video_frames/frame_129.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.865228, "center_y":0.599607, "width":0.011105, "height":0.068785}, "confidence":0.697678}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/test_video_frames/frame_12.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923205, "center_y":0.596944, "width":0.020023, "height":0.044422}, "confidence":0.959906}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/test_video_frames/frame_130.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/test_video_frames/frame_131.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/test_video_frames/frame_132.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.274154, "center_y":0.634049, "width":0.019158, "height":0.075554}, "confidence":0.701515}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/test_video_frames/frame_133.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/test_video_frames/frame_134.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.867531, "center_y":0.603842, "width":0.015569, "height":0.076322}, "confidence":0.830555}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/test_video_frames/frame_135.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.236524, "center_y":0.630722, "width":0.014410, "height":0.092336}, "confidence":0.269890}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/test_video_frames/frame_136.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.257959, "center_y":0.611930, "width":0.020426, "height":0.053729}, "confidence":0.919665}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/test_video_frames/frame_137.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.257386, "center_y":0.604131, "width":0.023836, "height":0.052201}, "confidence":0.980741}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/test_video_frames/frame_138.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.261055, "center_y":0.600845, "width":0.020592, "height":0.060125}, "confidence":0.967230}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/test_video_frames/frame_139.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.265319, "center_y":0.597860, "width":0.016358, "height":0.060087}, "confidence":0.911510}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/test_video_frames/frame_13.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923180, "center_y":0.596909, "width":0.019869, "height":0.043485}, "confidence":0.963715}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.246865, "center_y":0.622230, "width":0.021100, "height":0.066532}, "confidence":0.333423}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/test_video_frames/frame_140.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.268805, "center_y":0.595327, "width":0.012951, "height":0.070560}, "confidence":0.895538}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/test_video_frames/frame_141.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.272882, "center_y":0.589302, "width":0.012133, "height":0.073769}, "confidence":0.501703}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/test_video_frames/frame_142.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.283497, "center_y":0.607747, "width":0.010504, "height":0.094616}, "confidence":0.652050}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/test_video_frames/frame_143.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/test_video_frames/frame_144.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.871285, "center_y":0.563976, "width":0.009250, "height":0.062215}, "confidence":0.629739}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data/test_video_frames/frame_145.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.307818, "center_y":0.609898, "width":0.034234, "height":0.086263}, "confidence":0.974132}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data/test_video_frames/frame_146.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.313637, "center_y":0.608083, "width":0.027088, "height":0.100180}, "confidence":0.902185}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.895860, "center_y":0.577605, "width":0.015320, "height":0.112947}, "confidence":0.490501}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data/test_video_frames/frame_147.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.314445, "center_y":0.605997, "width":0.020037, "height":0.077735}, "confidence":0.928420}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.904946, "center_y":0.580292, "width":0.019762, "height":0.109595}, "confidence":0.769090}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.284227, "center_y":0.572741, "width":0.020151, "height":0.045004}, "confidence":0.286512}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data/test_video_frames/frame_148.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.310741, "center_y":0.606760, "width":0.020776, "height":0.075520}, "confidence":0.951737}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data/test_video_frames/frame_149.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.910807, "center_y":0.576849, "width":0.019458, "height":0.087657}, "confidence":0.878944}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.310071, "center_y":0.601226, "width":0.012084, "height":0.084349}, "confidence":0.536501}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data/test_video_frames/frame_14.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923296, "center_y":0.597150, "width":0.019942, "height":0.043274}, "confidence":0.959904}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data/test_video_frames/frame_150.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.310837, "center_y":0.586655, "width":0.021277, "height":0.049832}, "confidence":0.951216}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.909107, "center_y":0.566612, "width":0.014354, "height":0.072478}, "confidence":0.804245}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data/test_video_frames/frame_151.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.313460, "center_y":0.574907, "width":0.021156, "height":0.048696}, "confidence":0.923695}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.909713, "center_y":0.562629, "width":0.008843, "height":0.071877}, "confidence":0.314607}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data/test_video_frames/frame_152.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.319612, "center_y":0.565273, "width":0.024434, "height":0.045265}, "confidence":0.942486}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.911203, "center_y":0.560903, "width":0.012162, "height":0.075117}, "confidence":0.721308}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data/test_video_frames/frame_153.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.325953, "center_y":0.566623, "width":0.020296, "height":0.050676}, "confidence":0.788406}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data/test_video_frames/frame_154.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.333279, "center_y":0.562023, "width":0.018456, "height":0.047556}, "confidence":0.575724}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data/test_video_frames/frame_155.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.339763, "center_y":0.571771, "width":0.012963, "height":0.058715}, "confidence":0.521544}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data/test_video_frames/frame_156.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.346732, "center_y":0.571697, "width":0.010070, "height":0.069655}, "confidence":0.695696}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data/test_video_frames/frame_157.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data/test_video_frames/frame_158.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.366847, "center_y":0.583674, "width":0.012722, "height":0.081275}, "confidence":0.340771}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.330317, "center_y":0.571208, "width":0.018167, "height":0.048228}, "confidence":0.286434}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.938173, "center_y":0.553274, "width":0.011232, "height":0.062215}, "confidence":0.285896}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data/test_video_frames/frame_159.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.941167, "center_y":0.553901, "width":0.009672, "height":0.065584}, "confidence":0.754006}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data/test_video_frames/frame_15.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923221, "center_y":0.597371, "width":0.019715, "height":0.043920}, "confidence":0.960121}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.246295, "center_y":0.621498, "width":0.024395, "height":0.059063}, "confidence":0.278812}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data/test_video_frames/frame_160.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data/test_video_frames/frame_161.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.367083, "center_y":0.588071, "width":0.017037, "height":0.075247}, "confidence":0.845142}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data/test_video_frames/frame_162.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.364306, "center_y":0.593857, "width":0.018014, "height":0.066154}, "confidence":0.932924}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data/test_video_frames/frame_163.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.354705, "center_y":0.594540, "width":0.012661, "height":0.078967}, "confidence":0.709538}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data/test_video_frames/frame_164.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.952029, "center_y":0.563455, "width":0.020606, "height":0.071340}, "confidence":0.609158}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.347087, "center_y":0.595144, "width":0.013812, "height":0.090467}, "confidence":0.476639}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data/test_video_frames/frame_165.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.340889, "center_y":0.579158, "width":0.019223, "height":0.057196}, "confidence":0.979016}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.945591, "center_y":0.563705, "width":0.013230, "height":0.059771}, "confidence":0.841506}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data/test_video_frames/frame_166.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.335883, "center_y":0.566462, "width":0.027820, "height":0.035063}, "confidence":0.925467}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data/test_video_frames/frame_167.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.333097, "center_y":0.565793, "width":0.023067, "height":0.047194}, "confidence":0.958384}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data/test_video_frames/frame_168.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.329559, "center_y":0.570938, "width":0.022059, "height":0.049879}, "confidence":0.948428}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data/test_video_frames/frame_169.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.326287, "center_y":0.566438, "width":0.020508, "height":0.043561}, "confidence":0.920487}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data/test_video_frames/frame_16.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923406, "center_y":0.597281, "width":0.020383, "height":0.044704}, "confidence":0.955236}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data/test_video_frames/frame_170.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.322990, "center_y":0.566267, "width":0.016480, "height":0.049774}, "confidence":0.906752}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data/test_video_frames/frame_171.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.320410, "center_y":0.572046, "width":0.010423, "height":0.060983}, "confidence":0.848622}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data/test_video_frames/frame_172.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data/test_video_frames/frame_173.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.323758, "center_y":0.577029, "width":0.013547, "height":0.073756}, "confidence":0.615014}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data/test_video_frames/frame_174.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.878661, "center_y":0.549108, "width":0.013168, "height":0.054102}, "confidence":0.777697}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.326627, "center_y":0.583330, "width":0.018843, "height":0.074508}, "confidence":0.354320}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data/test_video_frames/frame_175.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.876320, "center_y":0.551273, "width":0.012796, "height":0.056629}, "confidence":0.866921}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.319582, "center_y":0.584981, "width":0.019134, "height":0.061553}, "confidence":0.408085}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data/test_video_frames/frame_176.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.313685, "center_y":0.585331, "width":0.019384, "height":0.078784}, "confidence":0.895217}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data/test_video_frames/frame_177.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.306987, "center_y":0.589220, "width":0.017189, "height":0.076046}, "confidence":0.786092}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.878086, "center_y":0.564773, "width":0.016910, "height":0.095880}, "confidence":0.371933}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data/test_video_frames/frame_178.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.297980, "center_y":0.595122, "width":0.009792, "height":0.062487}, "confidence":0.927557}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.878929, "center_y":0.576927, "width":0.036061, "height":0.117809}, "confidence":0.491134}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data/test_video_frames/frame_179.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data/test_video_frames/frame_17.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923408, "center_y":0.597019, "width":0.019697, "height":0.043763}, "confidence":0.960905}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.245015, "center_y":0.623335, "width":0.038340, "height":0.058388}, "confidence":0.569229}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data/test_video_frames/frame_180.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.867173, "center_y":0.570819, "width":0.024710, "height":0.061014}, "confidence":0.934357}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.284506, "center_y":0.588634, "width":0.015836, "height":0.074084}, "confidence":0.855278}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data/test_video_frames/frame_181.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.861293, "center_y":0.564429, "width":0.017067, "height":0.059339}, "confidence":0.886370}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data/test_video_frames/frame_182.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data/test_video_frames/frame_183.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data/test_video_frames/frame_184.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data/test_video_frames/frame_185.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.281961, "center_y":0.571013, "width":0.018645, "height":0.034222}, "confidence":0.766657}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.848915, "center_y":0.549156, "width":0.016644, "height":0.038451}, "confidence":0.398660}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data/test_video_frames/frame_186.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.283073, "center_y":0.571219, "width":0.016671, "height":0.041221}, "confidence":0.952542}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.850774, "center_y":0.547653, "width":0.015179, "height":0.038362}, "confidence":0.259644}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data/test_video_frames/frame_187.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.286650, "center_y":0.572441, "width":0.016800, "height":0.044353}, "confidence":0.920043}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data/test_video_frames/frame_188.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.291170, "center_y":0.575598, "width":0.013143, "height":0.056389}, "confidence":0.959450}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data/test_video_frames/frame_189.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data/test_video_frames/frame_18.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923481, "center_y":0.597149, "width":0.019702, "height":0.044540}, "confidence":0.956987}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data/test_video_frames/frame_190.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.301338, "center_y":0.582912, "width":0.009835, "height":0.065055}, "confidence":0.638951}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.865844, "center_y":0.555291, "width":0.015496, "height":0.052381}, "confidence":0.537579}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data/test_video_frames/frame_191.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.304600, "center_y":0.584472, "width":0.018101, "height":0.061896}, "confidence":0.949259}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.871980, "center_y":0.556030, "width":0.014201, "height":0.053632}, "confidence":0.579736}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data/test_video_frames/frame_192.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.304698, "center_y":0.587864, "width":0.022382, "height":0.056590}, "confidence":0.840203}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data/test_video_frames/frame_193.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.303371, "center_y":0.588578, "width":0.029260, "height":0.061891}, "confidence":0.939170}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data/test_video_frames/frame_194.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.295929, "center_y":0.593200, "width":0.016437, "height":0.066828}, "confidence":0.900158}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data/test_video_frames/frame_195.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.289008, "center_y":0.598436, "width":0.016635, "height":0.056000}, "confidence":0.886610}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.896350, "center_y":0.563713, "width":0.017084, "height":0.055363}, "confidence":0.255526}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data/test_video_frames/frame_196.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.278493, "center_y":0.599173, "width":0.011653, "height":0.071611}, "confidence":0.807307}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.901198, "center_y":0.573290, "width":0.022716, "height":0.057571}, "confidence":0.728876}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data/test_video_frames/frame_197.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.269131, "center_y":0.604261, "width":0.013647, "height":0.080311}, "confidence":0.911435}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.901265, "center_y":0.571168, "width":0.017320, "height":0.051974}, "confidence":0.819844}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data/test_video_frames/frame_198.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.259005, "center_y":0.598504, "width":0.018143, "height":0.066202}, "confidence":0.947020}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.897936, "center_y":0.571682, "width":0.012976, "height":0.049571}, "confidence":0.710279}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"data/test_video_frames/frame_199.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.251854, "center_y":0.586758, "width":0.021858, "height":0.046806}, "confidence":0.948699}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"data/test_video_frames/frame_19.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923654, "center_y":0.596987, "width":0.019721, "height":0.044422}, "confidence":0.949690}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.247938, "center_y":0.626119, "width":0.033232, "height":0.060957}, "confidence":0.356633}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"data/test_video_frames/frame_1.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.239524, "center_y":0.611198, "width":0.033715, "height":0.076374}, "confidence":0.956786}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.921974, "center_y":0.593814, "width":0.018097, "height":0.049310}, "confidence":0.956148}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"data/test_video_frames/frame_200.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.244848, "center_y":0.582061, "width":0.024114, "height":0.040459}, "confidence":0.974048}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"data/test_video_frames/frame_201.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.241713, "center_y":0.579434, "width":0.024498, "height":0.037984}, "confidence":0.973219}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"data/test_video_frames/frame_202.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.236683, "center_y":0.578264, "width":0.031136, "height":0.033295}, "confidence":0.913401}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"data/test_video_frames/frame_203.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.234905, "center_y":0.578430, "width":0.023950, "height":0.040849}, "confidence":0.969488}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"data/test_video_frames/frame_204.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.232119, "center_y":0.579529, "width":0.021174, "height":0.045158}, "confidence":0.979796}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"data/test_video_frames/frame_205.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.228515, "center_y":0.579939, "width":0.020779, "height":0.047095}, "confidence":0.980455}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"data/test_video_frames/frame_206.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.226438, "center_y":0.581013, "width":0.018613, "height":0.049594}, "confidence":0.968310}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"data/test_video_frames/frame_207.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223929, "center_y":0.582428, "width":0.018188, "height":0.058214}, "confidence":0.938418}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"data/test_video_frames/frame_208.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221382, "center_y":0.583658, "width":0.016224, "height":0.057535}, "confidence":0.955901}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"data/test_video_frames/frame_209.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.219413, "center_y":0.588019, "width":0.012765, "height":0.064477}, "confidence":0.682993}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.914184, "center_y":0.562806, "width":0.011205, "height":0.044873}, "confidence":0.542563}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"data/test_video_frames/frame_20.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923840, "center_y":0.597194, "width":0.020255, "height":0.043828}, "confidence":0.938872}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"data/test_video_frames/frame_210.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.217702, "center_y":0.593122, "width":0.011900, "height":0.062816}, "confidence":0.673820}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"data/test_video_frames/frame_211.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.218789, "center_y":0.598691, "width":0.011532, "height":0.077662}, "confidence":0.900607}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.930221, "center_y":0.579898, "width":0.012028, "height":0.073009}, "confidence":0.572711}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"data/test_video_frames/frame_212.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.219166, "center_y":0.598381, "width":0.015842, "height":0.064706}, "confidence":0.958115}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.930116, "center_y":0.578078, "width":0.017903, "height":0.058992}, "confidence":0.954735}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"data/test_video_frames/frame_213.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.217037, "center_y":0.600046, "width":0.021611, "height":0.054399}, "confidence":0.982165}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.930579, "center_y":0.579224, "width":0.024984, "height":0.050824}, "confidence":0.922495}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"data/test_video_frames/frame_214.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.210954, "center_y":0.597110, "width":0.029587, "height":0.049452}, "confidence":0.956494}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"data/test_video_frames/frame_215.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.202575, "center_y":0.600353, "width":0.024966, "height":0.058574}, "confidence":0.948350}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"data/test_video_frames/frame_216.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.189901, "center_y":0.601908, "width":0.022659, "height":0.063143}, "confidence":0.937178}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"data/test_video_frames/frame_217.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.180671, "center_y":0.604819, "width":0.016588, "height":0.071405}, "confidence":0.937720}
+ ] 
+}, 
+{
+ "frame_id":132, 
+ "filename":"data/test_video_frames/frame_218.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.171171, "center_y":0.607503, "width":0.013079, "height":0.078748}, "confidence":0.916216}
+ ] 
+}, 
+{
+ "frame_id":133, 
+ "filename":"data/test_video_frames/frame_219.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.158983, "center_y":0.606546, "width":0.018317, "height":0.067738}, "confidence":0.972035}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.894149, "center_y":0.580456, "width":0.016064, "height":0.074046}, "confidence":0.298858}
+ ] 
+}, 
+{
+ "frame_id":134, 
+ "filename":"data/test_video_frames/frame_21.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.923773, "center_y":0.597337, "width":0.020109, "height":0.044443}, "confidence":0.943500}
+ ] 
+}, 
+{
+ "frame_id":135, 
+ "filename":"data/test_video_frames/frame_220.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.149418, "center_y":0.594944, "width":0.018511, "height":0.058727}, "confidence":0.825841}
+ ] 
+}, 
+{
+ "frame_id":136, 
+ "filename":"data/test_video_frames/frame_221.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.141730, "center_y":0.588691, "width":0.026234, "height":0.046167}, "confidence":0.957778}
+ ] 
+}, 
+{
+ "frame_id":137, 
+ "filename":"data/test_video_frames/frame_222.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.136822, "center_y":0.583049, "width":0.031871, "height":0.032452}, "confidence":0.932479}
+ ] 
+}, 
+{
+ "frame_id":138, 
+ "filename":"data/test_video_frames/frame_223.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.136001, "center_y":0.580296, "width":0.026613, "height":0.036826}, "confidence":0.958455}
+ ] 
+}, 
+{
+ "frame_id":139, 
+ "filename":"data/test_video_frames/frame_224.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.134184, "center_y":0.581216, "width":0.026010, "height":0.034837}, "confidence":0.964906}
+ ] 
+}, 
+{
+ "frame_id":140, 
+ "filename":"data/test_video_frames/frame_225.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.133897, "center_y":0.582810, "width":0.025119, "height":0.032576}, "confidence":0.966672}
+ ] 
+}, 
+{
+ "frame_id":141, 
+ "filename":"data/test_video_frames/frame_226.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.135790, "center_y":0.583456, "width":0.031565, "height":0.026602}, "confidence":0.970735}
+ ] 
+}, 
+{
+ "frame_id":142, 
+ "filename":"data/test_video_frames/frame_227.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.140308, "center_y":0.583891, "width":0.030032, "height":0.029439}, "confidence":0.979984}
+ ] 
+}, 
+{
+ "frame_id":143, 
+ "filename":"data/test_video_frames/frame_228.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.146625, "center_y":0.586439, "width":0.030812, "height":0.033290}, "confidence":0.976015}
+ ] 
+}, 
+{
+ "frame_id":144, 
+ "filename":"data/test_video_frames/frame_229.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.156472, "center_y":0.587857, "width":0.023586, "height":0.043109}, "confidence":0.934218}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.867708, "center_y":0.566712, "width":0.017197, "height":0.038380}, "confidence":0.306562}
+ ] 
+}, 
+{
+ "frame_id":145, 
+ "filename":"data/test_video_frames/frame_22.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924129, "center_y":0.597706, "width":0.019428, "height":0.044459}, "confidence":0.904483}
+ ] 
+}, 
+{
+ "frame_id":146, 
+ "filename":"data/test_video_frames/frame_230.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.164030, "center_y":0.593533, "width":0.021849, "height":0.048830}, "confidence":0.568492}
+ ] 
+}, 
+{
+ "frame_id":147, 
+ "filename":"data/test_video_frames/frame_231.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.871548, "center_y":0.575721, "width":0.010795, "height":0.048605}, "confidence":0.252450}
+ ] 
+}, 
+{
+ "frame_id":148, 
+ "filename":"data/test_video_frames/frame_232.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":149, 
+ "filename":"data/test_video_frames/frame_233.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.872217, "center_y":0.576538, "width":0.020910, "height":0.046547}, "confidence":0.931480}
+ ] 
+}, 
+{
+ "frame_id":150, 
+ "filename":"data/test_video_frames/frame_234.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.867402, "center_y":0.575994, "width":0.022527, "height":0.039186}, "confidence":0.811221}
+ ] 
+}, 
+{
+ "frame_id":151, 
+ "filename":"data/test_video_frames/frame_235.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.189017, "center_y":0.589402, "width":0.017345, "height":0.047254}, "confidence":0.425782}
+ ] 
+}, 
+{
+ "frame_id":152, 
+ "filename":"data/test_video_frames/frame_236.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.186637, "center_y":0.586823, "width":0.021646, "height":0.040003}, "confidence":0.349151}
+ ] 
+}, 
+{
+ "frame_id":153, 
+ "filename":"data/test_video_frames/frame_237.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.190125, "center_y":0.592986, "width":0.017727, "height":0.053878}, "confidence":0.672047}
+ ] 
+}, 
+{
+ "frame_id":154, 
+ "filename":"data/test_video_frames/frame_238.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.193122, "center_y":0.589840, "width":0.020593, "height":0.047642}, "confidence":0.829024}
+ ] 
+}, 
+{
+ "frame_id":155, 
+ "filename":"data/test_video_frames/frame_239.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.194871, "center_y":0.585766, "width":0.023380, "height":0.030375}, "confidence":0.881306}
+ ] 
+}, 
+{
+ "frame_id":156, 
+ "filename":"data/test_video_frames/frame_23.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924174, "center_y":0.597568, "width":0.019572, "height":0.044180}, "confidence":0.903845}
+ ] 
+}, 
+{
+ "frame_id":157, 
+ "filename":"data/test_video_frames/frame_240.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.195588, "center_y":0.581534, "width":0.026028, "height":0.024013}, "confidence":0.963326}
+ ] 
+}, 
+{
+ "frame_id":158, 
+ "filename":"data/test_video_frames/frame_241.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.197496, "center_y":0.580702, "width":0.024848, "height":0.021705}, "confidence":0.945315}
+ ] 
+}, 
+{
+ "frame_id":159, 
+ "filename":"data/test_video_frames/frame_242.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.198322, "center_y":0.582389, "width":0.023235, "height":0.023174}, "confidence":0.975830}
+ ] 
+}, 
+{
+ "frame_id":160, 
+ "filename":"data/test_video_frames/frame_243.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.198411, "center_y":0.586186, "width":0.025102, "height":0.026487}, "confidence":0.979453}
+ ] 
+}, 
+{
+ "frame_id":161, 
+ "filename":"data/test_video_frames/frame_244.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.199293, "center_y":0.588903, "width":0.026746, "height":0.030812}, "confidence":0.916198}
+ ] 
+}, 
+{
+ "frame_id":162, 
+ "filename":"data/test_video_frames/frame_245.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.202145, "center_y":0.594154, "width":0.025822, "height":0.029661}, "confidence":0.949307}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.767105, "center_y":0.588789, "width":0.022176, "height":0.030181}, "confidence":0.717445}
+ ] 
+}, 
+{
+ "frame_id":163, 
+ "filename":"data/test_video_frames/frame_246.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.203406, "center_y":0.599601, "width":0.020735, "height":0.030148}, "confidence":0.918394}
+ ] 
+}, 
+{
+ "frame_id":164, 
+ "filename":"data/test_video_frames/frame_247.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.755267, "center_y":0.593415, "width":0.025576, "height":0.024194}, "confidence":0.867647}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.204759, "center_y":0.606714, "width":0.019215, "height":0.038511}, "confidence":0.335661}
+ ] 
+}, 
+{
+ "frame_id":165, 
+ "filename":"data/test_video_frames/frame_248.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.749229, "center_y":0.594944, "width":0.023422, "height":0.023206}, "confidence":0.886682}
+ ] 
+}, 
+{
+ "frame_id":166, 
+ "filename":"data/test_video_frames/frame_249.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.747017, "center_y":0.597915, "width":0.022571, "height":0.027634}, "confidence":0.938926}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.210224, "center_y":0.608846, "width":0.014772, "height":0.039846}, "confidence":0.929040}
+ ] 
+}, 
+{
+ "frame_id":167, 
+ "filename":"data/test_video_frames/frame_24.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924277, "center_y":0.597669, "width":0.020252, "height":0.044545}, "confidence":0.879154}
+ ] 
+}, 
+{
+ "frame_id":168, 
+ "filename":"data/test_video_frames/frame_250.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.744054, "center_y":0.601920, "width":0.018103, "height":0.035450}, "confidence":0.300561}
+ ] 
+}, 
+{
+ "frame_id":169, 
+ "filename":"data/test_video_frames/frame_251.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.740511, "center_y":0.605702, "width":0.021607, "height":0.025448}, "confidence":0.811696}
+ ] 
+}, 
+{
+ "frame_id":170, 
+ "filename":"data/test_video_frames/frame_252.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.735976, "center_y":0.606756, "width":0.013201, "height":0.031207}, "confidence":0.583522}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221190, "center_y":0.617518, "width":0.013091, "height":0.050947}, "confidence":0.467054}
+ ] 
+}, 
+{
+ "frame_id":171, 
+ "filename":"data/test_video_frames/frame_253.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220853, "center_y":0.617380, "width":0.017552, "height":0.040436}, "confidence":0.947683}
+ ] 
+}, 
+{
+ "frame_id":172, 
+ "filename":"data/test_video_frames/frame_254.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220693, "center_y":0.620035, "width":0.019201, "height":0.042220}, "confidence":0.685746}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.741058, "center_y":0.610178, "width":0.017997, "height":0.033151}, "confidence":0.382557}
+ ] 
+}, 
+{
+ "frame_id":173, 
+ "filename":"data/test_video_frames/frame_255.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221244, "center_y":0.616406, "width":0.020048, "height":0.037393}, "confidence":0.944655}
+ ] 
+}, 
+{
+ "frame_id":174, 
+ "filename":"data/test_video_frames/frame_256.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221779, "center_y":0.612517, "width":0.024356, "height":0.035724}, "confidence":0.862530}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.745484, "center_y":0.610527, "width":0.014550, "height":0.034949}, "confidence":0.291633}
+ ] 
+}, 
+{
+ "frame_id":175, 
+ "filename":"data/test_video_frames/frame_257.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223479, "center_y":0.608849, "width":0.025894, "height":0.029037}, "confidence":0.963158}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.747729, "center_y":0.610976, "width":0.014167, "height":0.033412}, "confidence":0.553162}
+ ] 
+}, 
+{
+ "frame_id":176, 
+ "filename":"data/test_video_frames/frame_258.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.226356, "center_y":0.605133, "width":0.022548, "height":0.024812}, "confidence":0.956597}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.754594, "center_y":0.612030, "width":0.019647, "height":0.036225}, "confidence":0.526301}
+ ] 
+}, 
+{
+ "frame_id":177, 
+ "filename":"data/test_video_frames/frame_259.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.228746, "center_y":0.603742, "width":0.024860, "height":0.023032}, "confidence":0.973769}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.759269, "center_y":0.612363, "width":0.021146, "height":0.031443}, "confidence":0.866862}
+ ] 
+}, 
+{
+ "frame_id":178, 
+ "filename":"data/test_video_frames/frame_25.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.925811, "center_y":0.598021, "width":0.019673, "height":0.045915}, "confidence":0.870139}
+ ] 
+}, 
+{
+ "frame_id":179, 
+ "filename":"data/test_video_frames/frame_260.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.230221, "center_y":0.604669, "width":0.027648, "height":0.023335}, "confidence":0.961601}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.763493, "center_y":0.608561, "width":0.018936, "height":0.027966}, "confidence":0.522817}
+ ] 
+}, 
+{
+ "frame_id":180, 
+ "filename":"data/test_video_frames/frame_261.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.232809, "center_y":0.606069, "width":0.022819, "height":0.026919}, "confidence":0.963968}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.765648, "center_y":0.604073, "width":0.020088, "height":0.030229}, "confidence":0.397406}
+ ] 
+}, 
+{
+ "frame_id":181, 
+ "filename":"data/test_video_frames/frame_262.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.236251, "center_y":0.608533, "width":0.026545, "height":0.028833}, "confidence":0.966884}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.768272, "center_y":0.604013, "width":0.021341, "height":0.024805}, "confidence":0.736446}
+ ] 
+}, 
+{
+ "frame_id":182, 
+ "filename":"data/test_video_frames/frame_263.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.240248, "center_y":0.609967, "width":0.023526, "height":0.032012}, "confidence":0.975384}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.771859, "center_y":0.603976, "width":0.018776, "height":0.025820}, "confidence":0.818244}
+ ] 
+}, 
+{
+ "frame_id":183, 
+ "filename":"data/test_video_frames/frame_264.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.242628, "center_y":0.611687, "width":0.022202, "height":0.033157}, "confidence":0.922616}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.773856, "center_y":0.604585, "width":0.021555, "height":0.024499}, "confidence":0.802181}
+ ] 
+}, 
+{
+ "frame_id":184, 
+ "filename":"data/test_video_frames/frame_265.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.242367, "center_y":0.614880, "width":0.018592, "height":0.032150}, "confidence":0.808396}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.777041, "center_y":0.605492, "width":0.022263, "height":0.024332}, "confidence":0.756801}
+ ] 
+}, 
+{
+ "frame_id":185, 
+ "filename":"data/test_video_frames/frame_266.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.778646, "center_y":0.607195, "width":0.022778, "height":0.025108}, "confidence":0.963060}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.247956, "center_y":0.611359, "width":0.016783, "height":0.047104}, "confidence":0.770044}
+ ] 
+}, 
+{
+ "frame_id":186, 
+ "filename":"data/test_video_frames/frame_267.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.782568, "center_y":0.610270, "width":0.022788, "height":0.026726}, "confidence":0.719702}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.249021, "center_y":0.612185, "width":0.018781, "height":0.045569}, "confidence":0.434893}
+ ] 
+}, 
+{
+ "frame_id":187, 
+ "filename":"data/test_video_frames/frame_268.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.780592, "center_y":0.611824, "width":0.021196, "height":0.029560}, "confidence":0.822018}
+ ] 
+}, 
+{
+ "frame_id":188, 
+ "filename":"data/test_video_frames/frame_269.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.780617, "center_y":0.614874, "width":0.021189, "height":0.028163}, "confidence":0.681787}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.254047, "center_y":0.611028, "width":0.012317, "height":0.045909}, "confidence":0.327596}
+ ] 
+}, 
+{
+ "frame_id":189, 
+ "filename":"data/test_video_frames/frame_26.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924366, "center_y":0.597974, "width":0.020901, "height":0.044664}, "confidence":0.836207}
+ ] 
+}, 
+{
+ "frame_id":190, 
+ "filename":"data/test_video_frames/frame_270.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.780426, "center_y":0.616203, "width":0.020700, "height":0.028733}, "confidence":0.817976}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.252421, "center_y":0.611843, "width":0.014664, "height":0.050471}, "confidence":0.616200}
+ ] 
+}, 
+{
+ "frame_id":191, 
+ "filename":"data/test_video_frames/frame_271.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.780217, "center_y":0.617651, "width":0.018550, "height":0.035665}, "confidence":0.831100}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.249053, "center_y":0.616967, "width":0.016938, "height":0.042312}, "confidence":0.636412}
+ ] 
+}, 
+{
+ "frame_id":192, 
+ "filename":"data/test_video_frames/frame_272.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.779544, "center_y":0.619559, "width":0.016501, "height":0.033255}, "confidence":0.883751}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.245854, "center_y":0.616581, "width":0.014984, "height":0.047893}, "confidence":0.743126}
+ ] 
+}, 
+{
+ "frame_id":193, 
+ "filename":"data/test_video_frames/frame_273.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.778619, "center_y":0.620003, "width":0.019584, "height":0.031039}, "confidence":0.851760}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.243256, "center_y":0.615436, "width":0.019815, "height":0.039166}, "confidence":0.774469}
+ ] 
+}, 
+{
+ "frame_id":194, 
+ "filename":"data/test_video_frames/frame_274.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.239336, "center_y":0.609206, "width":0.024839, "height":0.032595}, "confidence":0.963082}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.777187, "center_y":0.620399, "width":0.020402, "height":0.037231}, "confidence":0.778159}
+ ] 
+}, 
+{
+ "frame_id":195, 
+ "filename":"data/test_video_frames/frame_275.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.238842, "center_y":0.604823, "width":0.025532, "height":0.024969}, "confidence":0.882679}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.776453, "center_y":0.616270, "width":0.016482, "height":0.035520}, "confidence":0.409508}
+ ] 
+}, 
+{
+ "frame_id":196, 
+ "filename":"data/test_video_frames/frame_276.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.235459, "center_y":0.603796, "width":0.025279, "height":0.022193}, "confidence":0.931776}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.773410, "center_y":0.616653, "width":0.017927, "height":0.032072}, "confidence":0.818057}
+ ] 
+}, 
+{
+ "frame_id":197, 
+ "filename":"data/test_video_frames/frame_277.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.772819, "center_y":0.612199, "width":0.023224, "height":0.030703}, "confidence":0.934434}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.232823, "center_y":0.601743, "width":0.026559, "height":0.022822}, "confidence":0.867292}
+ ] 
+}, 
+{
+ "frame_id":198, 
+ "filename":"data/test_video_frames/frame_278.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.772073, "center_y":0.609081, "width":0.021761, "height":0.025146}, "confidence":0.976042}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.228497, "center_y":0.604093, "width":0.026594, "height":0.019293}, "confidence":0.974446}
+ ] 
+}, 
+{
+ "frame_id":199, 
+ "filename":"data/test_video_frames/frame_279.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.772695, "center_y":0.607712, "width":0.022338, "height":0.023993}, "confidence":0.967109}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.224408, "center_y":0.606386, "width":0.025857, "height":0.022151}, "confidence":0.907507}
+ ] 
+}, 
+{
+ "frame_id":200, 
+ "filename":"data/test_video_frames/frame_27.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924317, "center_y":0.598383, "width":0.020888, "height":0.044788}, "confidence":0.857773}
+ ] 
+}, 
+{
+ "frame_id":201, 
+ "filename":"data/test_video_frames/frame_280.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223038, "center_y":0.608228, "width":0.025171, "height":0.026738}, "confidence":0.978434}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.771503, "center_y":0.606894, "width":0.020166, "height":0.023828}, "confidence":0.976908}
+ ] 
+}, 
+{
+ "frame_id":202, 
+ "filename":"data/test_video_frames/frame_281.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.771069, "center_y":0.606830, "width":0.019533, "height":0.023651}, "confidence":0.945453}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223347, "center_y":0.612372, "width":0.023973, "height":0.031003}, "confidence":0.911824}
+ ] 
+}, 
+{
+ "frame_id":203, 
+ "filename":"data/test_video_frames/frame_282.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.772156, "center_y":0.608157, "width":0.021854, "height":0.029254}, "confidence":0.933991}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223578, "center_y":0.612291, "width":0.022986, "height":0.035246}, "confidence":0.887378}
+ ] 
+}, 
+{
+ "frame_id":204, 
+ "filename":"data/test_video_frames/frame_283.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.774188, "center_y":0.611018, "width":0.026061, "height":0.027451}, "confidence":0.915061}
+ ] 
+}, 
+{
+ "frame_id":205, 
+ "filename":"data/test_video_frames/frame_284.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.776376, "center_y":0.612807, "width":0.024785, "height":0.029041}, "confidence":0.866695}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.226551, "center_y":0.617432, "width":0.012270, "height":0.042651}, "confidence":0.670423}
+ ] 
+}, 
+{
+ "frame_id":206, 
+ "filename":"data/test_video_frames/frame_285.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.777786, "center_y":0.616064, "width":0.023567, "height":0.027835}, "confidence":0.921962}
+ ] 
+}, 
+{
+ "frame_id":207, 
+ "filename":"data/test_video_frames/frame_286.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.779921, "center_y":0.619610, "width":0.026012, "height":0.030566}, "confidence":0.893575}
+ ] 
+}, 
+{
+ "frame_id":208, 
+ "filename":"data/test_video_frames/frame_287.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.781780, "center_y":0.621233, "width":0.019021, "height":0.034172}, "confidence":0.582745}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.234306, "center_y":0.627126, "width":0.015815, "height":0.069945}, "confidence":0.274739}
+ ] 
+}, 
+{
+ "frame_id":209, 
+ "filename":"data/test_video_frames/frame_288.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.225940, "center_y":0.624806, "width":0.014568, "height":0.064130}, "confidence":0.388737}
+ ] 
+}, 
+{
+ "frame_id":210, 
+ "filename":"data/test_video_frames/frame_289.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.222033, "center_y":0.628925, "width":0.015511, "height":0.045074}, "confidence":0.601733}
+ ] 
+}, 
+{
+ "frame_id":211, 
+ "filename":"data/test_video_frames/frame_28.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924297, "center_y":0.598431, "width":0.021331, "height":0.043492}, "confidence":0.860354}
+ ] 
+}, 
+{
+ "frame_id":212, 
+ "filename":"data/test_video_frames/frame_290.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220196, "center_y":0.623478, "width":0.017495, "height":0.043125}, "confidence":0.796038}
+ ] 
+}, 
+{
+ "frame_id":213, 
+ "filename":"data/test_video_frames/frame_291.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.217301, "center_y":0.621856, "width":0.024750, "height":0.033723}, "confidence":0.964405}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.791914, "center_y":0.632059, "width":0.021033, "height":0.038562}, "confidence":0.255381}
+ ] 
+}, 
+{
+ "frame_id":214, 
+ "filename":"data/test_video_frames/frame_292.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.219324, "center_y":0.612893, "width":0.023801, "height":0.034421}, "confidence":0.884512}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.794246, "center_y":0.629282, "width":0.015922, "height":0.038816}, "confidence":0.565261}
+ ] 
+}, 
+{
+ "frame_id":215, 
+ "filename":"data/test_video_frames/frame_293.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220805, "center_y":0.610358, "width":0.027056, "height":0.027408}, "confidence":0.963411}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.801917, "center_y":0.629823, "width":0.023963, "height":0.037568}, "confidence":0.877187}
+ ] 
+}, 
+{
+ "frame_id":216, 
+ "filename":"data/test_video_frames/frame_294.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223211, "center_y":0.608247, "width":0.030016, "height":0.022496}, "confidence":0.972744}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.809050, "center_y":0.625552, "width":0.020723, "height":0.037000}, "confidence":0.666229}
+ ] 
+}, 
+{
+ "frame_id":217, 
+ "filename":"data/test_video_frames/frame_295.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.224026, "center_y":0.609610, "width":0.029387, "height":0.022709}, "confidence":0.945552}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.814694, "center_y":0.623062, "width":0.025820, "height":0.027871}, "confidence":0.810289}
+ ] 
+}, 
+{
+ "frame_id":218, 
+ "filename":"data/test_video_frames/frame_296.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.227532, "center_y":0.611353, "width":0.028255, "height":0.027620}, "confidence":0.979974}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.821755, "center_y":0.620548, "width":0.027961, "height":0.027655}, "confidence":0.974649}
+ ] 
+}, 
+{
+ "frame_id":219, 
+ "filename":"data/test_video_frames/frame_297.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.828464, "center_y":0.619940, "width":0.027624, "height":0.026460}, "confidence":0.980931}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.231808, "center_y":0.612659, "width":0.021751, "height":0.035641}, "confidence":0.908636}
+ ] 
+}, 
+{
+ "frame_id":220, 
+ "filename":"data/test_video_frames/frame_298.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.834477, "center_y":0.619624, "width":0.029452, "height":0.025516}, "confidence":0.979471}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.235783, "center_y":0.615847, "width":0.025551, "height":0.029979}, "confidence":0.972347}
+ ] 
+}, 
+{
+ "frame_id":221, 
+ "filename":"data/test_video_frames/frame_299.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.240445, "center_y":0.618962, "width":0.023987, "height":0.034664}, "confidence":0.976496}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.840933, "center_y":0.623057, "width":0.029916, "height":0.026140}, "confidence":0.960361}
+ ] 
+}, 
+{
+ "frame_id":222, 
+ "filename":"data/test_video_frames/frame_29.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924311, "center_y":0.598567, "width":0.021168, "height":0.043144}, "confidence":0.860750}
+ ] 
+}, 
+{
+ "frame_id":223, 
+ "filename":"data/test_video_frames/frame_2.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.921912, "center_y":0.594328, "width":0.017930, "height":0.050040}, "confidence":0.963291}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.239696, "center_y":0.611798, "width":0.032833, "height":0.073574}, "confidence":0.951311}
+ ] 
+}, 
+{
+ "frame_id":224, 
+ "filename":"data/test_video_frames/frame_300.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.245747, "center_y":0.622712, "width":0.021214, "height":0.038381}, "confidence":0.942711}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.847958, "center_y":0.624193, "width":0.030978, "height":0.028845}, "confidence":0.911656}
+ ] 
+}, 
+{
+ "frame_id":225, 
+ "filename":"data/test_video_frames/frame_301.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.857565, "center_y":0.626956, "width":0.026245, "height":0.030728}, "confidence":0.912673}
+ ] 
+}, 
+{
+ "frame_id":226, 
+ "filename":"data/test_video_frames/frame_302.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.861701, "center_y":0.629638, "width":0.035071, "height":0.033323}, "confidence":0.735244}
+ ] 
+}, 
+{
+ "frame_id":227, 
+ "filename":"data/test_video_frames/frame_303.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.868364, "center_y":0.633490, "width":0.027057, "height":0.035205}, "confidence":0.950369}
+ ] 
+}, 
+{
+ "frame_id":228, 
+ "filename":"data/test_video_frames/frame_304.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.873746, "center_y":0.639742, "width":0.029070, "height":0.033931}, "confidence":0.894472}
+ ] 
+}, 
+{
+ "frame_id":229, 
+ "filename":"data/test_video_frames/frame_305.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.878449, "center_y":0.643634, "width":0.024883, "height":0.041916}, "confidence":0.790799}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.264584, "center_y":0.630257, "width":0.011322, "height":0.051131}, "confidence":0.255691}
+ ] 
+}, 
+{
+ "frame_id":230, 
+ "filename":"data/test_video_frames/frame_306.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.882176, "center_y":0.644254, "width":0.016467, "height":0.047248}, "confidence":0.877514}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.260768, "center_y":0.631870, "width":0.013573, "height":0.059027}, "confidence":0.713782}
+ ] 
+}, 
+{
+ "frame_id":231, 
+ "filename":"data/test_video_frames/frame_307.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.254771, "center_y":0.633434, "width":0.016621, "height":0.048203}, "confidence":0.833375}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.886014, "center_y":0.647993, "width":0.015019, "height":0.053498}, "confidence":0.672866}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.246798, "center_y":0.612440, "width":0.011836, "height":0.033052}, "confidence":0.357665}
+ ] 
+}, 
+{
+ "frame_id":232, 
+ "filename":"data/test_video_frames/frame_308.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.885733, "center_y":0.652274, "width":0.016092, "height":0.057420}, "confidence":0.886596}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.251800, "center_y":0.632291, "width":0.027050, "height":0.042243}, "confidence":0.739479}
+ ] 
+}, 
+{
+ "frame_id":233, 
+ "filename":"data/test_video_frames/frame_309.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.246105, "center_y":0.625969, "width":0.024342, "height":0.041982}, "confidence":0.969572}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.885516, "center_y":0.652259, "width":0.018794, "height":0.050825}, "confidence":0.956254}
+ ] 
+}, 
+{
+ "frame_id":234, 
+ "filename":"data/test_video_frames/frame_30.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.925822, "center_y":0.599119, "width":0.020302, "height":0.044471}, "confidence":0.846132}
+ ] 
+}, 
+{
+ "frame_id":235, 
+ "filename":"data/test_video_frames/frame_310.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.242009, "center_y":0.620285, "width":0.031256, "height":0.028264}, "confidence":0.981918}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.884237, "center_y":0.653287, "width":0.021419, "height":0.050947}, "confidence":0.968117}
+ ] 
+}, 
+{
+ "frame_id":236, 
+ "filename":"data/test_video_frames/frame_311.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.881703, "center_y":0.649581, "width":0.024969, "height":0.051473}, "confidence":0.974569}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.240303, "center_y":0.614264, "width":0.031059, "height":0.024370}, "confidence":0.904755}
+ ] 
+}, 
+{
+ "frame_id":237, 
+ "filename":"data/test_video_frames/frame_312.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.878960, "center_y":0.643272, "width":0.026384, "height":0.043082}, "confidence":0.978539}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.234538, "center_y":0.611856, "width":0.034957, "height":0.024872}, "confidence":0.966144}
+ ] 
+}, 
+{
+ "frame_id":238, 
+ "filename":"data/test_video_frames/frame_313.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.876413, "center_y":0.637497, "width":0.032724, "height":0.037609}, "confidence":0.732864}
+ ] 
+}, 
+{
+ "frame_id":239, 
+ "filename":"data/test_video_frames/frame_314.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.872167, "center_y":0.635377, "width":0.035794, "height":0.029787}, "confidence":0.941082}
+ ] 
+}, 
+{
+ "frame_id":240, 
+ "filename":"data/test_video_frames/frame_315.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223473, "center_y":0.619610, "width":0.030830, "height":0.032121}, "confidence":0.978132}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.866812, "center_y":0.634412, "width":0.035296, "height":0.031693}, "confidence":0.967555}
+ ] 
+}, 
+{
+ "frame_id":241, 
+ "filename":"data/test_video_frames/frame_316.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223243, "center_y":0.621292, "width":0.027690, "height":0.038259}, "confidence":0.958837}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.861959, "center_y":0.634261, "width":0.039563, "height":0.033505}, "confidence":0.898738}
+ ] 
+}, 
+{
+ "frame_id":242, 
+ "filename":"data/test_video_frames/frame_317.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223506, "center_y":0.623554, "width":0.023125, "height":0.041355}, "confidence":0.939895}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.859680, "center_y":0.635809, "width":0.037177, "height":0.031431}, "confidence":0.889807}
+ ] 
+}, 
+{
+ "frame_id":243, 
+ "filename":"data/test_video_frames/frame_318.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.857376, "center_y":0.638726, "width":0.029477, "height":0.034869}, "confidence":0.948173}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.222660, "center_y":0.629327, "width":0.018025, "height":0.050979}, "confidence":0.877654}
+ ] 
+}, 
+{
+ "frame_id":244, 
+ "filename":"data/test_video_frames/frame_319.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.854435, "center_y":0.642374, "width":0.028192, "height":0.035713}, "confidence":0.978473}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.223294, "center_y":0.629923, "width":0.025157, "height":0.039867}, "confidence":0.759589}
+ ] 
+}, 
+{
+ "frame_id":245, 
+ "filename":"data/test_video_frames/frame_31.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924341, "center_y":0.598767, "width":0.022123, "height":0.043904}, "confidence":0.840370}
+ ] 
+}, 
+{
+ "frame_id":246, 
+ "filename":"data/test_video_frames/frame_320.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.222151, "center_y":0.635222, "width":0.018893, "height":0.046256}, "confidence":0.649511}
+ ] 
+}, 
+{
+ "frame_id":247, 
+ "filename":"data/test_video_frames/frame_321.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.848294, "center_y":0.647959, "width":0.027733, "height":0.039423}, "confidence":0.956136}
+ ] 
+}, 
+{
+ "frame_id":248, 
+ "filename":"data/test_video_frames/frame_322.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":249, 
+ "filename":"data/test_video_frames/frame_323.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.843633, "center_y":0.655540, "width":0.022512, "height":0.048553}, "confidence":0.953806}
+ ] 
+}, 
+{
+ "frame_id":250, 
+ "filename":"data/test_video_frames/frame_324.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.841402, "center_y":0.657443, "width":0.024069, "height":0.043350}, "confidence":0.865006}
+ ] 
+}, 
+{
+ "frame_id":251, 
+ "filename":"data/test_video_frames/frame_325.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.839743, "center_y":0.662779, "width":0.020198, "height":0.050691}, "confidence":0.892953}
+ ] 
+}, 
+{
+ "frame_id":252, 
+ "filename":"data/test_video_frames/frame_326.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.835533, "center_y":0.664393, "width":0.022821, "height":0.051582}, "confidence":0.949903}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.202297, "center_y":0.646136, "width":0.018598, "height":0.053249}, "confidence":0.863628}
+ ] 
+}, 
+{
+ "frame_id":253, 
+ "filename":"data/test_video_frames/frame_327.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.830371, "center_y":0.667936, "width":0.024053, "height":0.058738}, "confidence":0.976197}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.197330, "center_y":0.634222, "width":0.024024, "height":0.051616}, "confidence":0.923477}
+ ] 
+}, 
+{
+ "frame_id":254, 
+ "filename":"data/test_video_frames/frame_328.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.193872, "center_y":0.625650, "width":0.029582, "height":0.039374}, "confidence":0.975024}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.826976, "center_y":0.665875, "width":0.026575, "height":0.060877}, "confidence":0.921929}
+ ] 
+}, 
+{
+ "frame_id":255, 
+ "filename":"data/test_video_frames/frame_329.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.191780, "center_y":0.619973, "width":0.031332, "height":0.036281}, "confidence":0.980336}
+ ] 
+}, 
+{
+ "frame_id":256, 
+ "filename":"data/test_video_frames/frame_32.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924331, "center_y":0.598852, "width":0.021720, "height":0.044399}, "confidence":0.850658}
+ ] 
+}, 
+{
+ "frame_id":257, 
+ "filename":"data/test_video_frames/frame_330.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.190416, "center_y":0.617018, "width":0.031478, "height":0.035749}, "confidence":0.967311}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.822251, "center_y":0.655985, "width":0.040002, "height":0.051642}, "confidence":0.953840}
+ ] 
+}, 
+{
+ "frame_id":258, 
+ "filename":"data/test_video_frames/frame_331.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.190413, "center_y":0.617095, "width":0.030312, "height":0.040433}, "confidence":0.950593}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.823006, "center_y":0.650975, "width":0.045881, "height":0.047631}, "confidence":0.948214}
+ ] 
+}, 
+{
+ "frame_id":259, 
+ "filename":"data/test_video_frames/frame_332.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.190208, "center_y":0.618291, "width":0.044745, "height":0.031873}, "confidence":0.965034}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.822546, "center_y":0.650309, "width":0.035691, "height":0.040830}, "confidence":0.950635}
+ ] 
+}, 
+{
+ "frame_id":260, 
+ "filename":"data/test_video_frames/frame_333.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.191630, "center_y":0.623088, "width":0.030759, "height":0.042043}, "confidence":0.973816}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.817990, "center_y":0.649486, "width":0.036043, "height":0.042752}, "confidence":0.953278}
+ ] 
+}, 
+{
+ "frame_id":261, 
+ "filename":"data/test_video_frames/frame_334.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.194798, "center_y":0.627689, "width":0.028574, "height":0.041662}, "confidence":0.975319}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.814266, "center_y":0.650009, "width":0.039825, "height":0.048509}, "confidence":0.962186}
+ ] 
+}, 
+{
+ "frame_id":262, 
+ "filename":"data/test_video_frames/frame_335.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.197780, "center_y":0.633049, "width":0.029030, "height":0.047753}, "confidence":0.966515}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813546, "center_y":0.654334, "width":0.044876, "height":0.051806}, "confidence":0.938990}
+ ] 
+}, 
+{
+ "frame_id":263, 
+ "filename":"data/test_video_frames/frame_336.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.202462, "center_y":0.639285, "width":0.024068, "height":0.050476}, "confidence":0.940627}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813429, "center_y":0.660277, "width":0.040415, "height":0.048619}, "confidence":0.790794}
+ ] 
+}, 
+{
+ "frame_id":264, 
+ "filename":"data/test_video_frames/frame_337.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813274, "center_y":0.665947, "width":0.040370, "height":0.053961}, "confidence":0.957889}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.209309, "center_y":0.642116, "width":0.022525, "height":0.063414}, "confidence":0.927650}
+ ] 
+}, 
+{
+ "frame_id":265, 
+ "filename":"data/test_video_frames/frame_338.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813415, "center_y":0.672541, "width":0.040754, "height":0.057353}, "confidence":0.950340}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.211557, "center_y":0.642356, "width":0.018446, "height":0.072215}, "confidence":0.334302}
+ ] 
+}, 
+{
+ "frame_id":266, 
+ "filename":"data/test_video_frames/frame_339.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.811850, "center_y":0.679851, "width":0.042816, "height":0.054188}, "confidence":0.904274}
+ ] 
+}, 
+{
+ "frame_id":267, 
+ "filename":"data/test_video_frames/frame_33.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924273, "center_y":0.598741, "width":0.022052, "height":0.044574}, "confidence":0.856906}
+ ] 
+}, 
+{
+ "frame_id":268, 
+ "filename":"data/test_video_frames/frame_340.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813734, "center_y":0.685138, "width":0.024909, "height":0.052885}, "confidence":0.938104}
+ ] 
+}, 
+{
+ "frame_id":269, 
+ "filename":"data/test_video_frames/frame_341.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813584, "center_y":0.689971, "width":0.023140, "height":0.052365}, "confidence":0.951888}
+ ] 
+}, 
+{
+ "frame_id":270, 
+ "filename":"data/test_video_frames/frame_342.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.815312, "center_y":0.692225, "width":0.019611, "height":0.061246}, "confidence":0.966162}
+ ] 
+}, 
+{
+ "frame_id":271, 
+ "filename":"data/test_video_frames/frame_343.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.815810, "center_y":0.697349, "width":0.019765, "height":0.068762}, "confidence":0.968043}
+ ] 
+}, 
+{
+ "frame_id":272, 
+ "filename":"data/test_video_frames/frame_344.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220619, "center_y":0.670157, "width":0.016655, "height":0.068222}, "confidence":0.923013}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.813323, "center_y":0.701184, "width":0.023025, "height":0.081294}, "confidence":0.889702}
+ ] 
+}, 
+{
+ "frame_id":273, 
+ "filename":"data/test_video_frames/frame_345.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.807039, "center_y":0.706755, "width":0.029387, "height":0.088742}, "confidence":0.931082}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.220505, "center_y":0.664946, "width":0.020037, "height":0.068348}, "confidence":0.681699}
+ ] 
+}, 
+{
+ "frame_id":274, 
+ "filename":"data/test_video_frames/frame_346.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.216371, "center_y":0.656458, "width":0.040466, "height":0.061683}, "confidence":0.961434}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.801756, "center_y":0.702071, "width":0.035360, "height":0.098405}, "confidence":0.952709}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.764026, "center_y":0.671728, "width":0.018002, "height":0.086831}, "confidence":0.319161}
+ ] 
+}, 
+{
+ "frame_id":275, 
+ "filename":"data/test_video_frames/frame_347.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.217607, "center_y":0.646590, "width":0.035723, "height":0.046703}, "confidence":0.977170}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.798221, "center_y":0.697743, "width":0.035273, "height":0.077782}, "confidence":0.967607}
+ ] 
+}, 
+{
+ "frame_id":276, 
+ "filename":"data/test_video_frames/frame_348.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.795729, "center_y":0.687385, "width":0.048207, "height":0.074163}, "confidence":0.979961}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221126, "center_y":0.638254, "width":0.048323, "height":0.043027}, "confidence":0.953880}
+ ] 
+}, 
+{
+ "frame_id":277, 
+ "filename":"data/test_video_frames/frame_349.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.794557, "center_y":0.676611, "width":0.045374, "height":0.056824}, "confidence":0.971277}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.225956, "center_y":0.634380, "width":0.051004, "height":0.048283}, "confidence":0.870000}
+ ] 
+}, 
+{
+ "frame_id":278, 
+ "filename":"data/test_video_frames/frame_34.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924412, "center_y":0.598790, "width":0.021866, "height":0.045360}, "confidence":0.815848}
+ ] 
+}, 
+{
+ "frame_id":279, 
+ "filename":"data/test_video_frames/frame_350.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.791621, "center_y":0.674135, "width":0.046400, "height":0.056330}, "confidence":0.946682}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.229628, "center_y":0.635197, "width":0.051069, "height":0.050153}, "confidence":0.861568}
+ ] 
+}, 
+{
+ "frame_id":280, 
+ "filename":"data/test_video_frames/frame_351.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.234393, "center_y":0.640999, "width":0.045004, "height":0.052287}, "confidence":0.968563}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.788803, "center_y":0.669644, "width":0.051945, "height":0.059080}, "confidence":0.961412}
+ ] 
+}, 
+{
+ "frame_id":281, 
+ "filename":"data/test_video_frames/frame_352.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.241661, "center_y":0.647358, "width":0.035397, "height":0.049382}, "confidence":0.964863}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.786193, "center_y":0.673096, "width":0.047314, "height":0.054742}, "confidence":0.945895}
+ ] 
+}, 
+{
+ "frame_id":282, 
+ "filename":"data/test_video_frames/frame_353.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.252972, "center_y":0.650209, "width":0.030773, "height":0.052667}, "confidence":0.969721}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.785162, "center_y":0.677244, "width":0.059988, "height":0.050439}, "confidence":0.952743}
+ ] 
+}, 
+{
+ "frame_id":283, 
+ "filename":"data/test_video_frames/frame_354.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.264616, "center_y":0.653519, "width":0.027643, "height":0.056872}, "confidence":0.951455}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.785891, "center_y":0.683776, "width":0.052855, "height":0.066448}, "confidence":0.941783}
+ ] 
+}, 
+{
+ "frame_id":284, 
+ "filename":"data/test_video_frames/frame_355.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.788734, "center_y":0.691859, "width":0.045319, "height":0.067919}, "confidence":0.970833}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.278202, "center_y":0.653358, "width":0.030978, "height":0.090850}, "confidence":0.809729}
+ ] 
+}, 
+{
+ "frame_id":285, 
+ "filename":"data/test_video_frames/frame_356.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.789873, "center_y":0.699265, "width":0.047764, "height":0.070839}, "confidence":0.973386}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.293835, "center_y":0.657311, "width":0.014659, "height":0.075058}, "confidence":0.388663}
+ ] 
+}, 
+{
+ "frame_id":286, 
+ "filename":"data/test_video_frames/frame_357.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.794463, "center_y":0.707951, "width":0.040784, "height":0.070849}, "confidence":0.972859}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.302286, "center_y":0.664867, "width":0.014323, "height":0.069996}, "confidence":0.534602}
+ ] 
+}, 
+{
+ "frame_id":287, 
+ "filename":"data/test_video_frames/frame_358.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.798829, "center_y":0.710988, "width":0.032396, "height":0.071884}, "confidence":0.950603}
+ ] 
+}, 
+{
+ "frame_id":288, 
+ "filename":"data/test_video_frames/frame_359.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.805153, "center_y":0.719331, "width":0.020926, "height":0.067406}, "confidence":0.964594}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.322522, "center_y":0.657127, "width":0.032170, "height":0.080984}, "confidence":0.785390}
+ ] 
+}, 
+{
+ "frame_id":289, 
+ "filename":"data/test_video_frames/frame_35.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924420, "center_y":0.598963, "width":0.021734, "height":0.045462}, "confidence":0.812846}
+ ] 
+}, 
+{
+ "frame_id":290, 
+ "filename":"data/test_video_frames/frame_360.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.808658, "center_y":0.720914, "width":0.016657, "height":0.082173}, "confidence":0.852494}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.327695, "center_y":0.657222, "width":0.025803, "height":0.077071}, "confidence":0.672728}
+ ] 
+}, 
+{
+ "frame_id":291, 
+ "filename":"data/test_video_frames/frame_361.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.806305, "center_y":0.722282, "width":0.018905, "height":0.088400}, "confidence":0.925469}
+ ] 
+}, 
+{
+ "frame_id":292, 
+ "filename":"data/test_video_frames/frame_362.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.799648, "center_y":0.721145, "width":0.019342, "height":0.101222}, "confidence":0.858208}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.328008, "center_y":0.666654, "width":0.013307, "height":0.088685}, "confidence":0.688552}
+ ] 
+}, 
+{
+ "frame_id":293, 
+ "filename":"data/test_video_frames/frame_363.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.793746, "center_y":0.717650, "width":0.027699, "height":0.095752}, "confidence":0.981411}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.328702, "center_y":0.652333, "width":0.026069, "height":0.086312}, "confidence":0.951320}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.736096, "center_y":0.664124, "width":0.027126, "height":0.096081}, "confidence":0.256040}
+ ] 
+}, 
+{
+ "frame_id":294, 
+ "filename":"data/test_video_frames/frame_364.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.784263, "center_y":0.711174, "width":0.041150, "height":0.119512}, "confidence":0.971729}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.326627, "center_y":0.638663, "width":0.041202, "height":0.087124}, "confidence":0.960132}
+ ] 
+}, 
+{
+ "frame_id":295, 
+ "filename":"data/test_video_frames/frame_365.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.329066, "center_y":0.620123, "width":0.051205, "height":0.072117}, "confidence":0.979726}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.776721, "center_y":0.697029, "width":0.047939, "height":0.104987}, "confidence":0.965695}
+ ] 
+}, 
+{
+ "frame_id":296, 
+ "filename":"data/test_video_frames/frame_366.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.334470, "center_y":0.605474, "width":0.059419, "height":0.062431}, "confidence":0.948261}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.765099, "center_y":0.679647, "width":0.057752, "height":0.090492}, "confidence":0.925891}
+ ] 
+}, 
+{
+ "frame_id":297, 
+ "filename":"data/test_video_frames/frame_367.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.759434, "center_y":0.659175, "width":0.060338, "height":0.088014}, "confidence":0.976594}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.341543, "center_y":0.586654, "width":0.064751, "height":0.057886}, "confidence":0.938391}
+ ] 
+}, 
+{
+ "frame_id":298, 
+ "filename":"data/test_video_frames/frame_368.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.755682, "center_y":0.648760, "width":0.056993, "height":0.063082}, "confidence":0.974982}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.347962, "center_y":0.585500, "width":0.064947, "height":0.049250}, "confidence":0.937992}
+ ] 
+}, 
+{
+ "frame_id":299, 
+ "filename":"data/test_video_frames/frame_369.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.354060, "center_y":0.587551, "width":0.055800, "height":0.059719}, "confidence":0.962204}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.748320, "center_y":0.638110, "width":0.068244, "height":0.075494}, "confidence":0.921382}
+ ] 
+}, 
+{
+ "frame_id":300, 
+ "filename":"data/test_video_frames/frame_36.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.924675, "center_y":0.598512, "width":0.016586, "height":0.053978}, "confidence":0.787966}
+ ] 
+}, 
+{
+ "frame_id":301, 
+ "filename":"data/test_video_frames/frame_370.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.741078, "center_y":0.639336, "width":0.063604, "height":0.088330}, "confidence":0.973075}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.364093, "center_y":0.589206, "width":0.055303, "height":0.070042}, "confidence":0.945860}
+ ] 
+}, 
+{
+ "frame_id":302, 
+ "filename":"data/test_video_frames/frame_371.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.739370, "center_y":0.640192, "width":0.061662, "height":0.095149}, "confidence":0.970227}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.376902, "center_y":0.586818, "width":0.046632, "height":0.074766}, "confidence":0.965313}
+ ] 
+}, 
+{
+ "frame_id":303, 
+ "filename":"data/test_video_frames/frame_372.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.740401, "center_y":0.638357, "width":0.061483, "height":0.089447}, "confidence":0.953097}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.389521, "center_y":0.592970, "width":0.041327, "height":0.093153}, "confidence":0.917121}
+ ] 
+}, 
+{
+ "frame_id":304, 
+ "filename":"data/test_video_frames/frame_373.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.740196, "center_y":0.639181, "width":0.055735, "height":0.101751}, "confidence":0.969473}
+ ] 
+}, 
+{
+ "frame_id":305, 
+ "filename":"data/test_video_frames/frame_374.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.744310, "center_y":0.639114, "width":0.049493, "height":0.113339}, "confidence":0.959082}
+ ] 
+}, 
+{
+ "frame_id":306, 
+ "filename":"data/test_video_frames/frame_375.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.751126, "center_y":0.640119, "width":0.042331, "height":0.113788}, "confidence":0.922992}
+ ] 
+}, 
+{
+ "frame_id":307, 
+ "filename":"data/test_video_frames/frame_376.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.756835, "center_y":0.642371, "width":0.033690, "height":0.124169}, "confidence":0.974585}
+ ] 
+}, 
+{
+ "frame_id":308, 
+ "filename":"data/test_video_frames/frame_377.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.761799, "center_y":0.644209, "width":0.019440, "height":0.121712}, "confidence":0.570046}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.468551, "center_y":0.581188, "width":0.026689, "height":0.100739}, "confidence":0.514053}
+ ] 
+}, 
+{
+ "frame_id":309, 
+ "filename":"data/test_video_frames/frame_378.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.478403, "center_y":0.584722, "width":0.033837, "height":0.106691}, "confidence":0.945765}
+ ] 
+}, 
+{
+ "frame_id":310, 
+ "filename":"data/test_video_frames/frame_379.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.486111, "center_y":0.587028, "width":0.032974, "height":0.107810}, "confidence":0.897660}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.733479, "center_y":0.597814, "width":0.047154, "height":0.150189}, "confidence":0.469315}
+ ] 
+}, 
+{
+ "frame_id":311, 
+ "filename":"data/test_video_frames/frame_37.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.926335, "center_y":0.598113, "width":0.017817, "height":0.051321}, "confidence":0.815419}
+ ] 
+}, 
+{
+ "frame_id":312, 
+ "filename":"data/test_video_frames/frame_380.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.486958, "center_y":0.587471, "width":0.017598, "height":0.105953}, "confidence":0.718766}
+ ] 
+}, 
+{
+ "frame_id":313, 
+ "filename":"data/test_video_frames/frame_381.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.746481, "center_y":0.647578, "width":0.021518, "height":0.158974}, "confidence":0.803806}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.487205, "center_y":0.597182, "width":0.018407, "height":0.124910}, "confidence":0.750662}
+ ] 
+}, 
+{
+ "frame_id":314, 
+ "filename":"data/test_video_frames/frame_382.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.484249, "center_y":0.577022, "width":0.039319, "height":0.133430}, "confidence":0.987234}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.730188, "center_y":0.630223, "width":0.036838, "height":0.157143}, "confidence":0.972019}
+ ] 
+}, 
+{
+ "frame_id":315, 
+ "filename":"data/test_video_frames/frame_383.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.705921, "center_y":0.616337, "width":0.054694, "height":0.148213}, "confidence":0.989440}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.483492, "center_y":0.561862, "width":0.045451, "height":0.109222}, "confidence":0.980533}
+ ] 
+}, 
+{
+ "frame_id":316, 
+ "filename":"data/test_video_frames/frame_384.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.694377, "center_y":0.587486, "width":0.074791, "height":0.128043}, "confidence":0.982687}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.485974, "center_y":0.534243, "width":0.059912, "height":0.093191}, "confidence":0.958703}
+ ] 
+}, 
+{
+ "frame_id":317, 
+ "filename":"data/test_video_frames/frame_385.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.677310, "center_y":0.554827, "width":0.083049, "height":0.109790}, "confidence":0.978411}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.483964, "center_y":0.509056, "width":0.065977, "height":0.086977}, "confidence":0.773741}
+ ] 
+}, 
+{
+ "frame_id":318, 
+ "filename":"data/test_video_frames/frame_386.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.666905, "center_y":0.536534, "width":0.091266, "height":0.096452}, "confidence":0.982876}
+ ] 
+}, 
+{
+ "frame_id":319, 
+ "filename":"data/test_video_frames/frame_387.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.646648, "center_y":0.526898, "width":0.081993, "height":0.106456}, "confidence":0.977784}
+ ] 
+}, 
+{
+ "frame_id":320, 
+ "filename":"data/test_video_frames/frame_388.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.634993, "center_y":0.514431, "width":0.078830, "height":0.110153}, "confidence":0.987930}
+ ] 
+}, 
+{
+ "frame_id":321, 
+ "filename":"data/test_video_frames/frame_389.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.621813, "center_y":0.520340, "width":0.074508, "height":0.120288}, "confidence":0.984552}
+ ] 
+}, 
+{
+ "frame_id":322, 
+ "filename":"data/test_video_frames/frame_38.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.926262, "center_y":0.598468, "width":0.018018, "height":0.052681}, "confidence":0.823974}
+ ] 
+}, 
+{
+ "frame_id":323, 
+ "filename":"data/test_video_frames/frame_390.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.619517, "center_y":0.524862, "width":0.070409, "height":0.128426}, "confidence":0.992098}
+ ] 
+}, 
+{
+ "frame_id":324, 
+ "filename":"data/test_video_frames/frame_391.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.610490, "center_y":0.525483, "width":0.078721, "height":0.134026}, "confidence":0.983558}
+ ] 
+}, 
+{
+ "frame_id":325, 
+ "filename":"data/test_video_frames/frame_392.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.611956, "center_y":0.530956, "width":0.062381, "height":0.143606}, "confidence":0.993235}
+ ] 
+}, 
+{
+ "frame_id":326, 
+ "filename":"data/test_video_frames/frame_393.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.614262, "center_y":0.539030, "width":0.049661, "height":0.160526}, "confidence":0.974202}
+ ] 
+}, 
+{
+ "frame_id":327, 
+ "filename":"data/test_video_frames/frame_394.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.608135, "center_y":0.558438, "width":0.037519, "height":0.167676}, "confidence":0.950248}
+ ] 
+}, 
+{
+ "frame_id":328, 
+ "filename":"data/test_video_frames/frame_395.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":329, 
+ "filename":"data/test_video_frames/frame_396.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":330, 
+ "filename":"data/test_video_frames/frame_397.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":331, 
+ "filename":"data/test_video_frames/frame_39.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.926238, "center_y":0.597923, "width":0.017992, "height":0.053640}, "confidence":0.776593}
+ ] 
+}, 
+{
+ "frame_id":332, 
+ "filename":"data/test_video_frames/frame_3.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922132, "center_y":0.594656, "width":0.018534, "height":0.047431}, "confidence":0.966338}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.240435, "center_y":0.612064, "width":0.031537, "height":0.073864}, "confidence":0.941542}
+ ] 
+}, 
+{
+ "frame_id":333, 
+ "filename":"data/test_video_frames/frame_40.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.926040, "center_y":0.599321, "width":0.017895, "height":0.052784}, "confidence":0.846355}
+ ] 
+}, 
+{
+ "frame_id":334, 
+ "filename":"data/test_video_frames/frame_41.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.921147, "center_y":0.605689, "width":0.014753, "height":0.044463}, "confidence":0.644159}
+ ] 
+}, 
+{
+ "frame_id":335, 
+ "filename":"data/test_video_frames/frame_42.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":336, 
+ "filename":"data/test_video_frames/frame_43.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":337, 
+ "filename":"data/test_video_frames/frame_44.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":338, 
+ "filename":"data/test_video_frames/frame_45.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":339, 
+ "filename":"data/test_video_frames/frame_46.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":340, 
+ "filename":"data/test_video_frames/frame_47.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":341, 
+ "filename":"data/test_video_frames/frame_48.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":342, 
+ "filename":"data/test_video_frames/frame_49.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":343, 
+ "filename":"data/test_video_frames/frame_4.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922140, "center_y":0.595262, "width":0.017797, "height":0.048484}, "confidence":0.971850}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.243212, "center_y":0.616328, "width":0.020786, "height":0.073811}, "confidence":0.783938}
+ ] 
+}, 
+{
+ "frame_id":344, 
+ "filename":"data/test_video_frames/frame_50.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":345, 
+ "filename":"data/test_video_frames/frame_51.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":346, 
+ "filename":"data/test_video_frames/frame_52.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":347, 
+ "filename":"data/test_video_frames/frame_53.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":348, 
+ "filename":"data/test_video_frames/frame_54.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":349, 
+ "filename":"data/test_video_frames/frame_55.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":350, 
+ "filename":"data/test_video_frames/frame_56.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":351, 
+ "filename":"data/test_video_frames/frame_57.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":352, 
+ "filename":"data/test_video_frames/frame_58.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":353, 
+ "filename":"data/test_video_frames/frame_59.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":354, 
+ "filename":"data/test_video_frames/frame_5.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922068, "center_y":0.595546, "width":0.018012, "height":0.047542}, "confidence":0.973703}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.244453, "center_y":0.616624, "width":0.019505, "height":0.075319}, "confidence":0.897148}
+ ] 
+}, 
+{
+ "frame_id":355, 
+ "filename":"data/test_video_frames/frame_60.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":356, 
+ "filename":"data/test_video_frames/frame_61.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":357, 
+ "filename":"data/test_video_frames/frame_62.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":358, 
+ "filename":"data/test_video_frames/frame_63.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":359, 
+ "filename":"data/test_video_frames/frame_64.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":360, 
+ "filename":"data/test_video_frames/frame_65.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":361, 
+ "filename":"data/test_video_frames/frame_66.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":362, 
+ "filename":"data/test_video_frames/frame_67.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":363, 
+ "filename":"data/test_video_frames/frame_68.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":364, 
+ "filename":"data/test_video_frames/frame_69.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":365, 
+ "filename":"data/test_video_frames/frame_6.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922009, "center_y":0.595829, "width":0.018326, "height":0.046318}, "confidence":0.972570}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.244041, "center_y":0.617456, "width":0.018553, "height":0.076250}, "confidence":0.853807}
+ ] 
+}, 
+{
+ "frame_id":366, 
+ "filename":"data/test_video_frames/frame_70.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":367, 
+ "filename":"data/test_video_frames/frame_71.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":368, 
+ "filename":"data/test_video_frames/frame_72.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":369, 
+ "filename":"data/test_video_frames/frame_73.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":370, 
+ "filename":"data/test_video_frames/frame_74.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.247541, "center_y":0.632806, "width":0.034786, "height":0.069754}, "confidence":0.468908}
+ ] 
+}, 
+{
+ "frame_id":371, 
+ "filename":"data/test_video_frames/frame_75.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.248722, "center_y":0.625990, "width":0.032290, "height":0.051886}, "confidence":0.958779}
+ ] 
+}, 
+{
+ "frame_id":372, 
+ "filename":"data/test_video_frames/frame_76.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.243094, "center_y":0.634298, "width":0.019629, "height":0.053033}, "confidence":0.729593}
+ ] 
+}, 
+{
+ "frame_id":373, 
+ "filename":"data/test_video_frames/frame_77.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.250855, "center_y":0.633128, "width":0.031222, "height":0.060141}, "confidence":0.869197}
+ ] 
+}, 
+{
+ "frame_id":374, 
+ "filename":"data/test_video_frames/frame_78.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.253428, "center_y":0.638484, "width":0.022287, "height":0.052863}, "confidence":0.926600}
+ ] 
+}, 
+{
+ "frame_id":375, 
+ "filename":"data/test_video_frames/frame_79.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.252197, "center_y":0.642102, "width":0.020883, "height":0.056960}, "confidence":0.978045}
+ ] 
+}, 
+{
+ "frame_id":376, 
+ "filename":"data/test_video_frames/frame_7.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922138, "center_y":0.596435, "width":0.018816, "height":0.046482}, "confidence":0.972486}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.245017, "center_y":0.617222, "width":0.020404, "height":0.070162}, "confidence":0.889156}
+ ] 
+}, 
+{
+ "frame_id":377, 
+ "filename":"data/test_video_frames/frame_80.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.250681, "center_y":0.644767, "width":0.018139, "height":0.061792}, "confidence":0.954238}
+ ] 
+}, 
+{
+ "frame_id":378, 
+ "filename":"data/test_video_frames/frame_81.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.249502, "center_y":0.647126, "width":0.017072, "height":0.071969}, "confidence":0.935596}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.931745, "center_y":0.608031, "width":0.015670, "height":0.075354}, "confidence":0.412404}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.230549, "center_y":0.664680, "width":0.012804, "height":0.059443}, "confidence":0.318796}
+ ] 
+}, 
+{
+ "frame_id":379, 
+ "filename":"data/test_video_frames/frame_82.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.249215, "center_y":0.648772, "width":0.013644, "height":0.077532}, "confidence":0.784184}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.227915, "center_y":0.573187, "width":0.013386, "height":0.031922}, "confidence":0.591386}
+ ] 
+}, 
+{
+ "frame_id":380, 
+ "filename":"data/test_video_frames/frame_83.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.250973, "center_y":0.651763, "width":0.009963, "height":0.061884}, "confidence":0.792208}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.230345, "center_y":0.567089, "width":0.013516, "height":0.031333}, "confidence":0.747752}
+ ] 
+}, 
+{
+ "frame_id":381, 
+ "filename":"data/test_video_frames/frame_84.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.251143, "center_y":0.643160, "width":0.011080, "height":0.101277}, "confidence":0.395398}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.230134, "center_y":0.566699, "width":0.013669, "height":0.031396}, "confidence":0.679009}
+ ] 
+}, 
+{
+ "frame_id":382, 
+ "filename":"data/test_video_frames/frame_85.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.249604, "center_y":0.644408, "width":0.013404, "height":0.106289}, "confidence":0.336606}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.227237, "center_y":0.566932, "width":0.012915, "height":0.028419}, "confidence":0.838852}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.929855, "center_y":0.538087, "width":0.012255, "height":0.023521}, "confidence":0.670284}
+ ] 
+}, 
+{
+ "frame_id":383, 
+ "filename":"data/test_video_frames/frame_86.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.251476, "center_y":0.655366, "width":0.010351, "height":0.077382}, "confidence":0.518987}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.221150, "center_y":0.565779, "width":0.015382, "height":0.031132}, "confidence":0.271462}
+ ] 
+}, 
+{
+ "frame_id":384, 
+ "filename":"data/test_video_frames/frame_87.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.248511, "center_y":0.654726, "width":0.015251, "height":0.128038}, "confidence":0.387637}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.908008, "center_y":0.540994, "width":0.011739, "height":0.032154}, "confidence":0.316906}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.929512, "center_y":0.541139, "width":0.010244, "height":0.029304}, "confidence":0.310271}
+ ] 
+}, 
+{
+ "frame_id":385, 
+ "filename":"data/test_video_frames/frame_88.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":386, 
+ "filename":"data/test_video_frames/frame_89.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":387, 
+ "filename":"data/test_video_frames/frame_8.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922542, "center_y":0.596658, "width":0.019105, "height":0.046252}, "confidence":0.971096}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.247834, "center_y":0.610994, "width":0.017150, "height":0.070674}, "confidence":0.560212}
+ ] 
+}, 
+{
+ "frame_id":388, 
+ "filename":"data/test_video_frames/frame_90.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.221571, "center_y":0.669351, "width":0.012582, "height":0.118883}, "confidence":0.759962}
+ ] 
+}, 
+{
+ "frame_id":389, 
+ "filename":"data/test_video_frames/frame_91.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":390, 
+ "filename":"data/test_video_frames/frame_92.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.193583, "center_y":0.675729, "width":0.015998, "height":0.100838}, "confidence":0.914190}
+ ] 
+}, 
+{
+ "frame_id":391, 
+ "filename":"data/test_video_frames/frame_93.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.920246, "center_y":0.626153, "width":0.012416, "height":0.105091}, "confidence":0.291853}
+ ] 
+}, 
+{
+ "frame_id":392, 
+ "filename":"data/test_video_frames/frame_94.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.179540, "center_y":0.647450, "width":0.021618, "height":0.061238}, "confidence":0.968117}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.908475, "center_y":0.619870, "width":0.009915, "height":0.092181}, "confidence":0.383829}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.171803, "center_y":0.563703, "width":0.010738, "height":0.037947}, "confidence":0.854225}
+ ] 
+}, 
+{
+ "frame_id":393, 
+ "filename":"data/test_video_frames/frame_95.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.173938, "center_y":0.635460, "width":0.025545, "height":0.050300}, "confidence":0.842467}
+ ] 
+}, 
+{
+ "frame_id":394, 
+ "filename":"data/test_video_frames/frame_96.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.172966, "center_y":0.634320, "width":0.019377, "height":0.050770}, "confidence":0.914714}
+ ] 
+}, 
+{
+ "frame_id":395, 
+ "filename":"data/test_video_frames/frame_97.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.175656, "center_y":0.640367, "width":0.010480, "height":0.072239}, "confidence":0.417474}
+ ] 
+}, 
+{
+ "frame_id":396, 
+ "filename":"data/test_video_frames/frame_98.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.181648, "center_y":0.632276, "width":0.011097, "height":0.102671}, "confidence":0.778668}, 
+  {"class_id":0, "name":"Campina", "relative_coordinates":{"center_x":0.153604, "center_y":0.549748, "width":0.011782, "height":0.030414}, "confidence":0.481980}
+ ] 
+}, 
+{
+ "frame_id":397, 
+ "filename":"data/test_video_frames/frame_99.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.184686, "center_y":0.631853, "width":0.010813, "height":0.097196}, "confidence":0.643025}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.136668, "center_y":0.653241, "width":0.014378, "height":0.135537}, "confidence":0.359482}
+ ] 
+}, 
+{
+ "frame_id":398, 
+ "filename":"data/test_video_frames/frame_9.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.922812, "center_y":0.596901, "width":0.018666, "height":0.045687}, "confidence":0.967984}, 
+  {"class_id":2, "name":"Jumbo_been", "relative_coordinates":{"center_x":0.247984, "center_y":0.619698, "width":0.015623, "height":0.086290}, "confidence":0.763768}
+ ] 
+}
+]
